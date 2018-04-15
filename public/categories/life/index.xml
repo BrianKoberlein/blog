@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Brian Koberlein</title>
+    <link>/categories/life/</link>
+    <description>Recent content in Life on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Changes in the Wind</title>
+      <link>/changes-wind/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/changes-wind/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re reading this, welcome to the new website.&lt;/p&gt;
+
+&lt;p&gt;When I began One Universe at a Time five years ago, it was really as a way to archive things I&amp;rsquo;d been &lt;a href=&#34;https://plus.google.com/+BrianKoberlein&#34;&gt;writing on Google+&lt;/a&gt;. To make things easy, I set it up on a Wordpress server. It&amp;rsquo;s quick, simple, and there are lots of hosting options. Wordpress is great if you have a relatively small site, but thousands of posts and ever increasing bandwidth starts taking a toll. Over the past several months the backend of the website has gotten ever slower, with no end in site. When my hosting provider announced yet another price increase, the time was right to move.&lt;/p&gt;
+
+&lt;p&gt;And that meant the opportunity to do things in a different way. Hopefully a better one. Rather than simply moving to yet another Wordpress site, I&amp;rsquo;ve decided to roll my own as it were. This will not only eliminate the computational overhead of Wordpress, it will force me to focus more on what I write and how I write it.&lt;/p&gt;
+
+&lt;p&gt;Wordpress makes it so easy to do a post that you don&amp;rsquo;t have to think much about it. As a result, my writing has gotten lazier. I&amp;rsquo;d find myself writing something quickly rather than giving an idea room to grow. The new site is much more solid, but it requires a higher level of intentionality. That means the writing will be more intentional as well.&lt;/p&gt;
+
+&lt;p&gt;Of course you can&amp;rsquo;t completely change a website from the ground up without some growing pains. Comments have been off for a while to make the transition easier. There could also be some hiccups of missing articles or images. If you find any issues, please let me know.&lt;/p&gt;
+
+&lt;p&gt;So welcome to the new site. I look forward to telling you the next five years of stories.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Small Beginnings</title>
+      <link>/small-beginnings/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/small-beginnings/</guid>
+      <description>&lt;p&gt;So I’ve finally made a personal website.  All the cool kids are doing it these days, and I didn’t want to be left behind.&lt;/p&gt;
+
+&lt;p&gt;I’ve had personal websites before, but these have always been hosted by the various institutes where I’ve been employed, and over time these sites either relocated or faded away.  This is the first time I have a site with a domain and server I control, so I can ensure that pages won’t disappear, and the site won’t be relocated to another domain.  Here I stand, as it were.&lt;/p&gt;
+
+&lt;p&gt;Some of you (perhaps most of you) may know that at the moment I spend most of my social media time on Google+, where &lt;a href=&#34;https://plus.google.com/+BrianKoberlein&#34;&gt;I write a great deal about astrophysics&lt;/a&gt;. That isn’t likely to change any time soon.  Google+ has a vibrant science community, and I will continue to write about astro-topics there primarily, or at least first.&lt;/p&gt;
+
+&lt;p&gt;But despite all the benefits of Google+, it is just one corner of the internet.  It is a rich garden, but a walled one.  So the initial goal of this site will be to move beyond the garden wall.  It will start small, and I’ll initially have posts about astronomy and astrophysics, since that’s what I’m most familiar with.&lt;/p&gt;
+
+&lt;p&gt;Then we’ll just see where it goes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

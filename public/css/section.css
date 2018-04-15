@@ -1,0 +1,448 @@
+/* Stylesheet for single journal entry */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* FONTS */
+
+@font-face {
+	font-family: "equity";
+  	src: url("fonts/equity_text_b_regular.woff") format("woff");
+  	font-style: normal;
+  	font-weight: normal;
+}
+
+@font-face {
+  	font-family: "equity";
+  	src: url("fonts/equity_text_b_italic.woff") format("woff");
+  	font-style: italic;
+  	font-weight: normal;
+}
+
+@font-face {
+  	font-family: "equity";
+  	src: url("fonts/equity_text_b_bold.woff") format("woff");
+  	font-style: normal;
+  	font-weight: bold;
+}
+
+@font-face {
+  	font-family: "equity";
+  	src: url("fonts/equity_text_b_bold_italic.woff") format("woff");
+  	font-style: italic;
+  	font-weight: bold;
+}
+
+@font-face {
+  	font-family: "equitycaps";
+  	src: url("fonts/equity_caps_b_regular.woff") format("woff");
+  	font-style: normal;
+  	font-weight: normal;
+}
+
+@font-face {
+  	font-family: "equitycaps";
+  	src: url("fonts/equity_caps_b_bold.woff") format("woff");
+  	font-style: normal;
+  	font-weight: bold;
+}
+
+@font-face {
+  	font-family: "concourse";
+  	src: url("fonts/concourse_t2_regular.woff") format("woff");
+  	font-style: normal;
+  	font-weight: normal;
+}
+
+@font-face {
+  	font-family: "concourse";
+  	src: url("fonts/concourse_t2_bold.woff") format("woff");
+  	font-style: normal;
+  	font-weight: bold;
+}
+
+@font-face {
+  	font-family: "concourse";
+  	src: url("fonts/concourse_t2_bold_italic.woff") format("woff");
+  	font-style: italic;
+  	font-weight: bold;
+}
+
+@font-face {
+  	font-family: "concourse-t7";
+  	src: url("fonts/concourse_t7_regular.woff") format("woff");
+  	font-style: normal;
+  	font-weight: normal;
+  }
+
+@font-face {
+  	font-family: "subtitle";
+  	src: url("fonts/concourse_c2_regular.woff") format("woff");
+  	font-style: normal;
+  	font-weight: normal;
+  }
+
+@font-face {
+  	font-family: "concaps";
+  	src: url("fonts/concourse_c3_regular.woff") format("woff");
+  	font-style: normal;
+  	font-weight: normal;
+  }
+
+/* PAGE DEFAULTS */
+
+
+html {
+	font-size: calc(14px + (26 - 14) * ((100vw - 300px) / 1300));
+	background: #f4f3ed;
+	color: #774c28;
+	font-family: "equity", "Times New Roman", serif;
+	line-height: 1.35em;
+}
+
+body {
+  	margin: auto;
+  	max-width: 64rem;
+}
+
+header {
+	margin: auto;
+	height: 3rem;
+  	max-width: 53rem;
+  	padding: 0 1rem 0 1rem;
+}
+
+article {
+	margin: auto;
+  	max-width: 42rem;
+  	/* padding: 0 1rem 0 1rem; */
+}
+
+nav {
+	text-align:center;
+	position:relative;
+	height: 3rem;
+	padding-top: 0.5rem;
+	border-bottom: 2rem;
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a{
+	color: #d86632;
+	display: block;
+	padding-left: 1.1rem;
+	padding-right: 1.1rem;
+	text-decoration:none;
+  	text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6,p,figcaption,blockquote,.articlelist {
+  	margin: auto;
+  	max-width: 30rem;
+  	padding: 0 1rem 0 1rem;
+} 
+
+figcaption p {
+	padding: 0;
+}
+
+/* TYPOGRAPHY */
+
+h1 {
+	font-family: "concourse-t7", "Arial Black", sans-serif;
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 2rem;
+	line-height: 2rem;
+	margin-top: 3rem;
+	margin-bottom: 1rem;
+	max-width: 42rem;
+}
+
+h2 {
+	font-family: "concourse";
+	text-align: center;
+	font-size: 1.5rem;
+	margin-bottom: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+p {
+	margin-bottom: 1rem;
+}
+
+#logo {
+	display: block;
+	font-size: 2rem;
+	line-height: 1.2rem;
+	margin-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	color: #0d558f;
+	font-family: "equitycaps";
+	border-bottom: 1px solid #0d558f;
+	max-width: 53rem;
+	text-align: center;
+}
+
+#topmeta {
+	text-transform: capitalize;
+}
+
+.meta {
+	font-family: "concaps";
+	font-size: 0.7rem;
+	text-align: center;
+}
+
+.subtitle {
+	font-family: "subtitle";
+	font-size: 1.3rem;
+	line-height: 1.3rem;
+	margin-bottom: 0.5rem;
+	max-width: 25rem;
+}
+
+
+a {
+	font-family: "equitycaps";
+	color: #774c28;
+	text-decoration: none;
+}
+
+.meta a {
+	font-family: "concaps";
+	color: #774c28;
+	text-decoration: none;
+}
+
+p a:hover{
+	background-color: #ffca3c;
+}
+
+/* Spread out if there is room */
+
+@media only screen and (min-width: 760px) {
+
+
+aside.right {
+  	float: right;
+  	margin-left: 1rem;
+  	text-align: justify;
+  	width: 14rem;
+}
+
+aside.left {
+  	float: left;
+  	margin-right: 1rem;
+  	text-align: justify;
+  	width: 14rem;
+}
+
+figure.left {
+  	float: left;
+  	margin-right: 1rem;
+  	max-width: 15rem;
+  	margin-top: 0.2rem;
+}
+
+figure.right {
+	float: right;
+  	margin-left: 1rem;
+  	max-width: 15rem;
+  	margin-top: 0.2rem;
+}
+}
+
+@media only screen and (max-width: 760px) {
+	figure.right, figure.left {
+	max-width: 30rem;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+
+html{
+	font-size: 16px;
+}
+
+header {
+	padding: 0;
+}
+#logo {
+  display: block;
+  background: #0d558f;
+  font-size: 1.2rem;
+  color: #ffca3c;
+  font-family: "equitycaps";
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+nav {
+  text-align:center;
+  position:relative;
+  width: 100%;
+  margin: 0;
+  padding-top: 0;
+}
+
+nav ul {
+  list-style: none;
+  background: #ffca3c;
+}
+
+nav ul li {
+  display: inline-block;
+  width: 19%;
+  text-align: center;
+}
+
+nav ul li a{
+  color: #0d558f;
+  font-size: 0.7rem;
+  display: block;
+  text-decoration:none;
+  text-align: center;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+.topmenu {
+  border-right: 1px solid #0d558f;
+}
+
+}
+
+
+/* ASIDES */
+
+aside {
+	color: #d86632;
+	font-family: "concourse";
+	font-size: 1.2rem;
+	font-style: italic;
+	font-weight: bold;
+	margin: auto;
+	padding-bottom: 1rem;
+	text-align: center;
+	max-width: 20rem;
+}
+
+
+/* BLOCKQUOTES */
+
+blockquote {
+	border-left: 2px solid #d86632;
+	font-size: 0.9rem;
+	font-weight: bold;
+	margin: auto;
+	margin-bottom: 1rem;
+  	padding-left: 0.4rem;
+  	padding-right: 0.5rem;
+  	max-width: 30rem;
+}
+
+/* FIGURES */
+
+figure {
+  	margin: auto;
+  	max-width: 42rem;
+}
+
+figure img {
+	width: 100%;
+}
+
+figcaption {
+	font-size: 0.8rem;
+	font-style: italic;
+	font-weight: bold;
+	line-height: 1rem;
+	margin: auto;
+	margin-bottom: 1rem;
+  max-width: 30rem;
+}
+
+/* LISTS */
+
+.articlelist {
+  margin: auto;
+  max-width: 30rem;
+  margin-bottom: 1rem;
+  list-style: none;
+  font-size: 1.3rem;
+  line-height: 1.5rem;
+}
+
+.articlelist a {
+  color: #d86632;
+  font-family: "concourse";
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  font-weight: bold;
+  margin: auto;
+  padding-bottom: 1rem;
+}
+
+.descriptionlist {
+  font-family: "equity";
+  font-size: 1rem;
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+.metalist {
+  border-top: 1px solid gray;
+}
+
+.metalist, .metalist a {
+  font-family: "concaps";
+  color: #774c28;
+  font-size: 0.7rem;
+  list-style: none;
+}
+
+.metalist a {
+  color: #774c28;
+  text-transform: capitalize;
+}
+
+
+/* FOOTNOTES */
+
+#note {
+	border-top: 1px solid #d86632;;
+	padding-top: 0.3rem;
+	line-height: 1rem;
+	padding-bottom: 0;
+}
+
+/* FOOTER */
+
+footer {
+  	margin: auto;
+  	max-width: 53rem;
+  	padding-top: 0;
+}
+
+footer p {
+	margin: auto;
+	max-width: 2.5rem;
+}
+
+footer p img {
+	width: 100%;
+}
+

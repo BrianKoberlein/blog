@@ -1,0 +1,60 @@
+{{ define "main" }}
+<main>
+	<article>
+	<h1 id="recent">Recent Articles</h1>
+		<section class="recent">
+		{{ range first 1 .Data.Pages.ByPublishDate.Reverse }}
+		<figure>
+			<a href="{{.Permalink}}"><img{{ with .Params.featured_image }} src="/image/{{ . }}"{{ end }} alt="{{ .Params.featured_image_caption }}" /></a>
+		</figure>
+		<h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
+		<h3>{{.Description}}</h3>
+    	{{ end }}
+    	{{ range first 1 (after 1 .Data.Pages.ByPublishDate.Reverse) }}
+    	<div class="recentleft">
+		<figure>
+			<a href="{{.Permalink}}"><img{{ with .Params.featured_image }} src="/image/{{ . }}"{{ end }} alt="{{ .Params.featured_image_caption }}" /></a>
+		</figure>
+		<h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
+		<h3>{{.Description}}</h3>
+		</div>
+    	{{ end }}
+    	{{ range first 1 (after 2 .Data.Pages.ByPublishDate.Reverse) }}
+    	<div class="recentright">
+		<figure>
+			<a href="{{.Permalink}}"><img{{ with .Params.featured_image }} src="/image/{{ . }}"{{ end }} alt="{{ .Params.featured_image_caption }}" /></a>
+		</figure>
+		<h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
+		<h3>{{.Description}}</h3>
+		</div>
+    	{{ end }}
+    	{{ range first 1 (after 3 .Data.Pages.ByPublishDate.Reverse) }}
+    	<div class="recentleft">
+		<figure>
+			<a href="{{.Permalink}}"><img{{ with .Params.featured_image }} src="/image/{{ . }}"{{ end }} alt="{{ .Params.featured_image_caption }}" /></a>
+		</figure>
+		<h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
+		<h3>{{.Description}}</h3>
+		</div>
+    	{{ end }}
+    	{{ range first 1 (after 4 .Data.Pages.ByPublishDate.Reverse) }}
+    	<div class="recentright">
+		<figure>
+			<a href="{{.Permalink}}"><img{{ with .Params.featured_image }} src="/image/{{ . }}"{{ end }} alt="{{ .Params.featured_image_caption }}" /></a>
+		</figure>
+		<h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
+		<h3>{{.Description}}</h3>
+		</div>
+    	{{ end }}
+    </section>
+    <section id="topics">{{ partial "topics.html" . }}</section>
+    <section id="me">{{ partial "me.html" . }}</section>
+<section id="give">{{ partial "patreon.html" . }}</section>
+<section id="coda">
+<p class="meta" id="note">
+      Articles may be used under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 license</a>.<br />
+      Last revised on <time datetime="{{ now.Format "2006-01-02" }}">{{ now.Format "2 January 2006" }}</time>.</p>
+  </section>
+</article>
+</main>
+{{ end }}

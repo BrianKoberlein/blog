@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy on Brian Koberlein</title>
+    <link>/categories/astronomy/</link>
+    <description>Recent content in Astronomy on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Invisible Star</title>
+      <link>/the-invisible-star/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/the-invisible-star/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a limit to how far into the cosmos we can see. One of the biggest limiting factors is simply the brightness of an object. The more distant an object, the dimmer the object will appear. Even if there is no gas or dust in the way, the brightness decreases proportional to the square of its distance. For example, if two stars are equally bright, and one is twice as far away as the other, we will observe four times the light from the closer star than we see from the distant star. Because of this, main sequence stars such as our Sun can only be observed out to a few hundred million light years. Galaxies can be seen from billions of light years away, as can brilliant supernovae, but not a simple star.&lt;/p&gt;
+
+&lt;p&gt;But sometimes fortune favors the fortunate. There is a way that gravity can make an object appear brighter than it actually is. Just as a telescope can magnify light of a distant object, so can a &lt;a href=&#34;https://briankoberlein.com/2013/09/09/gravitational-lensing/&#34;&gt;gravitational lens&lt;/a&gt;. Gravitational lensing occurs when light from a distant is deflected by the presence of mass along our line of sight. It was &lt;a href=&#34;https://briankoberlein.com/2014/05/19/einstein-eddington/&#34;&gt;first observed by Arthur Eddington&lt;/a&gt; in 1919, and was the first validation of general relativity. As light is deflected around a galaxy or other mass, we see it coming from multiple directions. This means more light reaches us than normally would without lensing. So the star looks brighter than we&amp;rsquo;d expect.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/gravitationallens.jpg&#34; alt=&#34;A schematic example of gravitational lensing.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A schematic example of gravitational lensing.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This particular star, informally known as Icarus, is behind a large cluster of galaxies &lt;a href=&#34;https://blog.briankoberlein.com/whats-name/&#34;&gt;called&lt;/a&gt; MACS J1149+2223, and while the mass of the cluster brightened the star a bit, it wasn&amp;rsquo;t enough to be easily seen by the Hubble Space Telescope. But then a star from the cluster happened to pass in front of the distant star. This created an effect known as an Einstein ring, where light from Icarus grazes the closer star and is focused in our direction. The result is a significant brightening of the star. The combination of gravitational lensing from the galaxy cluster and the Einstein ring made Icarus appear 2000 times brighter than it actually is, making it bright enough for Hubble to capture. It&amp;rsquo;s light traveled for 9 billion years to reach us, making it the most distant main sequence star we&amp;rsquo;ve ever observed.&lt;/p&gt;
+
+&lt;p&gt;Sadly, Icarus itself is long dead. Analysis of the light shows that Icarus was a blue supergiant, similar to the bright star Rigel in the constellation of Orion. These stars can be 10,000 times brighter than our Sun, but their brilliance comes at a cost. They typically only shine for a few million years before dying as a brilliant supernova. The flicker of Icarus captured by Hubble is a luminous echo of a star that died when the universe was only 4 billion years old. Long before our own Sun began to form.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in a Name?</title>
+      <link>/whats-name/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/whats-name/</guid>
+      <description>&lt;p&gt;Yesterday I wrote about a &lt;a href=&#34;https://blog.briankoberlein.com/out-dark&#34;&gt;galaxy containing almost no dark matter&lt;/a&gt;. I didn&amp;rsquo;t mention its name, but it happens to be NGC1052-DF2. Of all the possible names you could give a galaxy, why that one? It all has to do with the history of how the galaxy was discovered.&lt;/p&gt;
+
+&lt;p&gt;Some galaxies have wonderful names: Andromeda, Triangulum, and the Milky Way. Others are commonly known by a descriptive name, such as the Sombrero Galaxy with its distinctive rim of dust, or the Tadpole Galaxy with it&amp;rsquo;s long trail of stars. Others are named after its discover, such as Mayall&amp;rsquo;s Object, or Hoag&amp;rsquo;s Object. But there are billions of known galaxies in the heavens, so most, such as NGC1052-DF2, are known by a catalog name.&lt;/p&gt;
+
+&lt;p&gt;The history of galaxy catalogs has its origin with &lt;a href=&#34;https://briankoberlein.com/2014/11/18/act-frustration/&#34;&gt;Charles Messier&lt;/a&gt;. In the 1700s, Messier was looking for comets, which look like faint nebulous blurs before they become brighter and grow long tails. Other objects known as nebulae also look like faint blurs. To keep from confusing the two, Messier created a list of nebulae. That way when he found a faint blur he could compare it with his nebula catalogue to see if it really was a comet. This became known as the Messier Catalog, and contains 110 objects. Each object is denoted by an M for Messier, and then it&amp;rsquo;s catalog number. So the Andromeda Galaxy is known as M31. Not all of Messier&amp;rsquo;s objects are galaxies. Telescopes at the time weren&amp;rsquo;t powerful enough to distinguish between galaxies and other objects such as globular clusters and planetary nebulae. But 40 of the Messier objects are galaxies, making them the first galaxy catalog.&lt;/p&gt;
+
+&lt;p&gt;In 1864, John Herschel published the &lt;em&gt;General Catalogue of Nebulae and Clusters of Stars&lt;/em&gt;, containing 5,079 objects. It expanded on the earlier work of his father William Herschel. This was expanded to 7,840 objects in 1888 by John Dreyer, and became known as the New General Catalogue, or NGC. The New General Catalogue was revised in 1973 and 1988, and is the most comprehensive list of nearby (in cosmic terms) galaxies. This is why galaxies often have the name NGC followed by a number.&lt;/p&gt;
+
+&lt;p&gt;But our particular galaxy has a hypened addition, and that&amp;rsquo;s because it isn&amp;rsquo;t in the main catalogue. It is a companion galaxy to NGC1052. Lots of the NGC galaxies have smaller companions, just as the Large and Small Magellanic clouds are companion galaxies to our own Milky Way. Since the galaxy was discovered by a telescope known as the Dragonfly Telephoto Array, and it was the second companion galaxy to be found, our galaxy has the name NGC1052-DF2.&lt;/p&gt;
+
+&lt;p&gt;Catalogs are a powerful tool of astronomers. They help us keep track of objects in the sky, and make sure different objects don&amp;rsquo;t get confused with each other. The only real downside is that they lead to some rather cumbersome names.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out of the Dark</title>
+      <link>/out-dark/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/out-dark/</guid>
+      <description>&lt;p&gt;Dark matter is the &lt;a href=&#34;https://briankoberlein.com/2014/08/15/five-facts/&#34;&gt;mystery&lt;/a&gt; that holds the universe together. Although it can&amp;rsquo;t be seen directly, we know it is there through its gravitational effect on light and the motion of matter. Dark matter makes up most of a galaxy&amp;rsquo;s mass, and there are some galaxies that are &lt;a href=&#34;https://briankoberlein.com/2016/09/02/dark-galaxy/&#34;&gt;almost entirely dark matter&lt;/a&gt;. This makes sense, because the atoms and molecules of stars and dust comprise only 12% of the mass in the universe. In the standard cosmological model, clumps of dark matter triggered the formation of galaxies and galactic clusters in the early universe, where there are galaxies there is dark matter. But recently astronomers have found a galaxy with almost no dark matter, and it&amp;rsquo;s raising questions about how it could have formed.&lt;/p&gt;
+
+&lt;p&gt;The galaxy in question is an &lt;a href=&#34;https://briankoberlein.com/2017/09/03/puzzle-fluffy-galaxies/&#34;&gt;ultradiffuse galaxy&lt;/a&gt;. These are galaxies that can be as big as our Milky Way, but contain only a few billion stars, rather than the 400 billion of our home galaxy. Because they are diffuse and faint we have only recently been able to study them. Most of these ultradiffuse galaxies contain dark matter, but this new galaxy is different.&lt;/p&gt;
+
+&lt;p&gt;The amount of dark matter in a galaxy can be estimated by studying the &lt;a href=&#34;https://briankoberlein.com/2015/06/09/amassing-evidence/&#34;&gt;motion of globular clusters&lt;/a&gt; in a galaxy. These are tight clusters of stars that are scattered around a galaxy like a halo. The more mass a galaxy has, the faster these clusters move as they orbit the galaxy. By comparing the speed of globular clusters with the brightness of stars in a galaxy, we can compare the visible mass of a galaxy to its total mass. When the team did this for the new galaxy, they found the motion of its globular clusters agreed with the visible mass of stars and dust. No dark matter is needed to make up the difference.&lt;/p&gt;
+
+&lt;p&gt;The existence of a galaxy free from dark matter further confirms that dark matter is both real and different from regular matter. If dark matter were an illusion due to &lt;a href=&#34;https://briankoberlein.com/2014/08/16/old-model-doesnt-work/&#34;&gt;modified gravity&lt;/a&gt; then such a galaxy couldn&amp;rsquo;t exist. Dark matter is out there, just not in this particular galaxy. But if that&amp;rsquo;s true, then how could this galaxy have formed. One idea is that the galaxy could have been involved in a collision with another galaxy, which stripped away its dark matter. But a survey of the surrounding area shows no evidence of a collision.&lt;/p&gt;
+
+&lt;p&gt;The only way to solve this mystery is to look for other dark-matter free galaxies. Until then we&amp;rsquo;re not yet out of the dark.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Wheel of Time</title>
+      <link>/wheel-time/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/wheel-time/</guid>
+      <description>&lt;p&gt;The universe moves like clockwork. Their motions can be described by elegant gravitational equations, which trace the motions of everything from planets to galaxies.&lt;/p&gt;
+
+&lt;p&gt;The gravitational attraction between any two bodies is stronger when they are closer together, a property known as the &lt;a href=&#34;https://briankoberlein.com/2014/03/27/mutual-attraction-2/&#34;&gt;inverse square law&lt;/a&gt;. As a result, objects orbit each other more quickly when they are close together. The planet &lt;a href=&#34;https://briankoberlein.com/2014/03/21/icy-hot/&#34;&gt;Mercury&lt;/a&gt; orbits the Sun once every 88 days, while distant &lt;a href=&#34;https://briankoberlein.com/2014/04/04/neptune-night/&#34;&gt;Neptune&lt;/a&gt; takes 165 years.&lt;/p&gt;
+
+&lt;p&gt;Galaxies don&amp;rsquo;t follow this relation. Most of the visible matter in a galaxy is concentrated at its center, just like our solar system. So you would expect that stars close to the center of a galaxy would move much more quickly than those on the outer edge. But it turns out that both central and edge stars move at about the same speed. This is due to the fact that galaxies are largely comprised of &lt;a href=&#34;https://briankoberlein.com/2014/08/15/five-facts/&#34;&gt;dark matter&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/rotationrelation.png&#34; alt=&#34;The relation between rotation speed and galaxy size.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The relation between rotation speed and galaxy size.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Even with dark matter, galaxies vary widely in mass. So one would still expect stars in dense and massive galaxies to orbit more quickly than stars in more diffuse galaxies. But it turns out that isn&amp;rsquo;t the case.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; New observations of galaxies found that regardless of a galaxy&amp;rsquo;s size, the stars on the outer edge of the galaxy take about a billion years to orbit the galaxy once. The relation holds for small dwarf galaxies just as well as it holds for massive spiral galaxies. We aren&amp;rsquo;t entirely sure why. Some simple models of galactic evolution allow for such a relation, but we will need more data to pin down the exact mechanism.&lt;/p&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t the first time we&amp;rsquo;ve found a relation among galaxies without fully understanding the underlying cause. The most famous one is the &lt;a href=&#34;https://briankoberlein.com/2013/11/17/tully-fisher-king/&#34;&gt;Tully-Fisher relation&lt;/a&gt;, which connects rotation speed to the overall brightness of a galaxy. But even without a known mechanism, this relation could be quite useful. By measuring the speed of stars on the edge of a galaxy, we can easily pin down its overall size. This can be difficult to do with distant galaxies.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Meurer, Gerhardt R., et al. &amp;ldquo;Cosmic clocks: a tight radius–velocity relationship for H i-selected galaxies.&amp;rdquo; Monthly Notices of the Royal Astronomical Society 476.2 (2018): 1624-1636. DOI: &lt;a href=&#34;https://arxiv.org/abs/1803.04716&#34;&gt;10.1093/mnras/sty275&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Waking the Dead</title>
+      <link>/waking-dead/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/waking-dead/</guid>
+      <description>&lt;p&gt;Every star dies. Our Sun will shine for about 5 billion more years, but the time will come when it swells to a red giant for a time, then collapse to become a white dwarf. Larger stars live shorter lives, and can eventually collapse to become neutron stars.&lt;/p&gt;
+
+&lt;p&gt;White dwarfs and neutron stars can truly be considered dead stars. Unlike regular stars, they don&amp;rsquo;t generate heat internally through nuclear fusion. They don&amp;rsquo;t have active periods with solar flares. They simply cool slowly over billions of years.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/NSandMH.gif&#34; alt=&#34;A neutron star compared in size to Manhattan island.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A neutron star compared in size to Manhattan island.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;That is, unless they have a companion star. When two stars orbit each other closely, material from one star can sometimes transfer to the other. This most often occurs when a red giant and white dwarf orbit closely. Material from the outer layers of the red giant can captured by the white dwarf. If the white dwarf captures enough material, it can cause the white dwarf to collapse, triggering a supernova. In principle a similar effect should be possible with a neutron star, where material captured from a red dwarf companion causes the neutron star to be active again. Now this effect has been observed.&lt;/p&gt;
+
+&lt;p&gt;As described in a paper&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; from Astronomy &amp;amp; Astrophysics, the team observed x-rays emitting from a previously quiet neutron star. The x-rays are generated when the neutron star captures matter from its companion. While this type of interaction isn&amp;rsquo;t surprising, it demonstrates how dynamic these binary systems can be, and it may help us better understand how these &amp;ldquo;odd-couple&amp;rdquo; binaries evolve over time.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Bozzo, E., et al. &amp;ldquo;IGR J17329-2731: The birth of a symbiotic X-ray binary.&amp;rdquo; arXiv preprint arXiv:1803.01593 (2018). &lt;a href=&#34;https://doi.org/10.1051/0004-6361/201832588&#34;&gt;DOI: 10.1051&amp;#47;0004-6361&amp;#47;201832588&lt;/a&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turn, Turn, Turn</title>
+      <link>/turn-turn-turn/</link>
+      <pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/turn-turn-turn/</guid>
+      <description>&lt;p&gt;The gravitational attraction an object has on you depends on how much mass it has, and how far away you are away from it. If the mass is spherical, then the closest you can get to its center (without digging) is its surface. This means that the gravitational strength of a spherical star/planet depends on its mass and its density. The higher an object&amp;rsquo;s density, the smaller its radius, and the stronger gravity is on its surface.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/pulsardiagram.jpg&#34; alt=&#34;Diagram of a pulsar. Credit: NRAO&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Diagram of a pulsar. Credit: NRAO
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Now suppose we spin our spherical world. If we are standing on its surface, we would have a tendency to fly off the world due to its rotation. The gravity is stronger than the centrifugal force, so we stay put. But if we could spin the world faster and faster, we would reach a point where the centrifugal force is equal to the force of gravity. Spin the world any faster, and we would fly off. This means that for a given density for a planet/star, there is a maximum rate of rotation. Any faster and it would fly apart. Put another way, if we measure the rotation of a planet or star, we know its minimum density.&lt;/p&gt;
+
+&lt;p&gt;Very roughly, we can calculate that density in grams per cubic centimeter by taking 140 million and dividing it by the square of an object&amp;rsquo;s period in seconds. So for the Earth, the period is 24 hours or 86,400 seconds. Plug that into our equation and we get a minimum density of about 0.02 g/cc. The Earth&amp;rsquo;s real density is about 5 g/cc, well above that minimum.&lt;/p&gt;
+
+&lt;p&gt;Pulsars are kind of like cosmic light houses. As they rotate they sweep out a beam of radio waves from their magnetic poles. If those poles are pointing in our direction, we can &lt;a href=&#34;http://www.jb.man.ac.uk/pulsar/Education/Sounds/sounds.html&#34;&gt;hear each rotation as a pulse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The fastest pulsars have a rotational period of about 1/1000th of a second. Plug that into our equation, and you get a minimum density of about 100 teragrams/cc. Thats 1 with 14 zeros after it. 100 trillion grams per sugar cube volume. That density is unimaginably high, but it also happens to be about the density of the nuclei of atoms.&lt;/p&gt;
+
+&lt;p&gt;So pulsars are as dense as atomic nuclei, only several kilometers in diameter. We call them neutron stars.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perception of Depth</title>
+      <link>/perception-of-depth/</link>
+      <pubDate>Sat, 31 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/perception-of-depth/</guid>
+      <description>&lt;p&gt;If you’ve ever watched a 3D movie, you’ve noticed how the image on the screen appears to have a certain depth to it. Certain objects just seem farther away. Other objects (usually pointy things) seem to leap out from the screen. You’ve also probably noticed that you have to wear a pair of glasses to watch the movie. If you take the glasses off during the movie, things look somewhat blurry.&lt;/p&gt;
+
+&lt;p&gt;3D movies work by projecting two movies at the same time. The two movies are almost identical, except that one was filmed (or computer generated) slightly to the left of center, and the other was filmed slightly to the right. This means that each movie has a slightly different point of view. The movies are projected on a special screen such that the light reflected from right projector is polarized one way, and the light from the left projector is polarized another. The glasses you wear are polarizing filters, and they ensure that only the left image reaches your left eye and only the right image reaches your right eye. With the glasses on, you see a different point of view in each eye. When you take the glasses off, you see both images at once, which is why they look blurry.&lt;/p&gt;
+
+&lt;p&gt;This trick works because (most) humans have depth perception. Our brains are able to integrate these two points of view into a perception of near and far. The same effect exists in the real world, and helps us do things like catch baseballs (or duck for the less athletically inclined). But the effect is typically more dramatic in the theater.&lt;/p&gt;
+
+&lt;p&gt;Depth perception is possible because a closer object exhibits a parallax shift when compared to more distant object. You can see this effect by looking at a a distant object. Close one eye, and hold up your thumb to cover the distant object. Without moving your thumb, switch eyes. What you will see is that your thumb has shifted because of the different point of view. If you hold your thumb closer to your face you get a bigger shift. Farther away and you get a smaller shift. This relationship is true in general. The closer the object the bigger the parallax shift. So by observing the parallax of objects, your brain can gauge their distance.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/parallax.gif&#34; alt=&#34;An example of parallax. Credit: University of Virginia&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        An example of parallax. Credit: University of Virginia
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;We can use the same effect to measure the distances of stars, using the width of Earth’s orbit. As the Earth moves around the Sun, you can measure the apparent position of a star against more distant stars. Over time you can observe the shift when the Earth is at one side of its orbit, and when its at the other side. That gives us two points of view separated by about 186 million miles (the actual distance varies depending on direction of the star in relation to Earth). This seems like a huge distance to us, but the parallax shift of stars is very small. Even the closest stars (not counting the Sun) are about 1 parsec away (a bit less than 4 light-years), which means they have a parallax shift of about 1 second of arc.&lt;/p&gt;
+
+&lt;p&gt;We’ve been able to use this cosmic depth perception to measure stellar distances up to about 1500 light years. Beyond that and the parallax shift is too small to measure accurately. Of course that raises the question of how we measure distances of farther objects. How can we say something is millions of light years away, or billions? For that we need several other methods, which together are known as the cosmic distance ladder.&lt;/p&gt;
+
+&lt;p&gt;But that’s a story for another time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

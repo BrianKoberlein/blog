@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemistry on Brian Koberlein</title>
+    <link>/tags/chemistry/</link>
+    <description>Recent content in Chemistry on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/chemistry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Losing Air</title>
+      <link>/losing-air/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/losing-air/</guid>
+      <description>&lt;p&gt;We generally imagine that Earth&amp;rsquo;s atmosphere is a constant, but this isn&amp;rsquo;t so. It turns out air does escape our atmosphere, but it isn&amp;rsquo;t anything to worry about. For any planet, the larger its mass the easier it is to hold on to a gaseous atmosphere. This is part of the reason why Mars has such a thin atmosphere compared to Earth. It also depends on things like temperature (hotter gasses can escape more easily), density (lighter gasses escape faster than heavier gasses), and if the planet has a strong magnetic field (magnetic fields help hold gasses).&lt;/p&gt;
+
+&lt;p&gt;Of course that raises an interesting mystery. Venus is a little smaller than Earth, hotter than Earth, and doesn&amp;rsquo;t have a strong magnetic field like Earth, so it should have a &lt;em&gt;less&lt;/em&gt; dense atmosphere than Earth. In fact, the atmosphere of Venus is &lt;em&gt;much&lt;/em&gt; thicker than Earth&amp;rsquo;s. Why?&lt;/p&gt;
+
+&lt;p&gt;It turns out that Earth has something Venus doesn&amp;rsquo;t &amp;ndash; liquid water. Water is very good at absorbing gasses like carbon dioxide. Water also helps put gasses like CO2 into rocks. So, Earth&amp;rsquo;s atmosphere would be thicker than Venus except for the fact that so much gas is trapped in water and rocks. So the wetness of our planet not only helps to regulate our temperature, it ensures that we don&amp;rsquo;t get crushed by a thick atmosphere.&lt;/p&gt;
+
+&lt;p&gt;So how much time do we have? Given the rate at which we lose atmosphere, and all the spare atmosphere we have trapped in the oceans and rocks, we will have atmosphere for as long as the sun shines. That gives us about 5 billion years, so mark your calendars!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

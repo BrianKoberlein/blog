@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pulsars on Brian Koberlein</title>
+    <link>/tags/pulsars/</link>
+    <description>Recent content in Pulsars on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Mon, 02 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/pulsars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turn, Turn, Turn</title>
+      <link>/turn-turn-turn/</link>
+      <pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/turn-turn-turn/</guid>
+      <description>&lt;p&gt;The gravitational attraction an object has on you depends on how much mass it has, and how far away you are away from it. If the mass is spherical, then the closest you can get to its center (without digging) is its surface. This means that the gravitational strength of a spherical star/planet depends on its mass and its density. The higher an object&amp;rsquo;s density, the smaller its radius, and the stronger gravity is on its surface.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/pulsardiagram.jpg&#34; alt=&#34;Diagram of a pulsar. Credit: NRAO&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Diagram of a pulsar. Credit: NRAO
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Now suppose we spin our spherical world. If we are standing on its surface, we would have a tendency to fly off the world due to its rotation. The gravity is stronger than the centrifugal force, so we stay put. But if we could spin the world faster and faster, we would reach a point where the centrifugal force is equal to the force of gravity. Spin the world any faster, and we would fly off. This means that for a given density for a planet/star, there is a maximum rate of rotation. Any faster and it would fly apart. Put another way, if we measure the rotation of a planet or star, we know its minimum density.&lt;/p&gt;
+
+&lt;p&gt;Very roughly, we can calculate that density in grams per cubic centimeter by taking 140 million and dividing it by the square of an object&amp;rsquo;s period in seconds. So for the Earth, the period is 24 hours or 86,400 seconds. Plug that into our equation and we get a minimum density of about 0.02 g/cc. The Earth&amp;rsquo;s real density is about 5 g/cc, well above that minimum.&lt;/p&gt;
+
+&lt;p&gt;Pulsars are kind of like cosmic light houses. As they rotate they sweep out a beam of radio waves from their magnetic poles. If those poles are pointing in our direction, we can &lt;a href=&#34;http://www.jb.man.ac.uk/pulsar/Education/Sounds/sounds.html&#34;&gt;hear each rotation as a pulse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The fastest pulsars have a rotational period of about 1/1000th of a second. Plug that into our equation, and you get a minimum density of about 100 teragrams/cc. Thats 1 with 14 zeros after it. 100 trillion grams per sugar cube volume. That density is unimaginably high, but it also happens to be about the density of the nuclei of atoms.&lt;/p&gt;
+
+&lt;p&gt;So pulsars are as dense as atomic nuclei, only several kilometers in diameter. We call them neutron stars.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

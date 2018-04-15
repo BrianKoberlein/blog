@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computation on Brian Koberlein</title>
+    <link>/tags/computation/</link>
+    <description>Recent content in Computation on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Sat, 05 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/computation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turing the Universe</title>
+      <link>/turing-universe/</link>
+      <pubDate>Sat, 05 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/turing-universe/</guid>
+      <description>&lt;p&gt;My research area is computational astrophysics. This means I use computers to analyze astronomical data or model astrophysical systems. Most of my work is done through an application known as Mathematica, which is a powerful computational program. Like any application, Mathematica has advantages and disadvantages, but it has one property that is absolutely essential: it is Turing complete.&lt;/p&gt;
+
+&lt;p&gt;A program that is Turing complete is capable (at least in principle) of computing anything that can be computed. So the only real limitation to an astrophysical model is computing power and memory. As a result, I can run a model in Mathematica on my laptop. If it takes too long, or needs too much memory, I can run the same model on a cluster of computers. With enough grant money I could run it on a large supercomputing cluster. My only limitation is that of the current hardware.&lt;/p&gt;
+
+&lt;p&gt;Turing completeness is central to computational astrophysics, though it is not a particularly rare property for applications. For example, Excel and Minecraft are Turing complete. One consequence of this is that any Turing complete application can model any other Turing complete application, so in principle you could program Excel to run Minecraft, and then program Minecraft to run Mathematica. It would be horribly impractical to do that, but it’s possible in principle.&lt;/p&gt;
+
+&lt;p&gt;The idea of computational completeness was developed by Alan Turing. He was a mathematician and computer scientist who lived in the mid-1900s, and was central to the cracking of the German enigma code in WWII. It was his work on computability that lead to his understanding of enigma.&lt;/p&gt;
+
+&lt;p&gt;Knowing an application is Turing complete, you can then choose your application based on other needs, such as ease of coding, or scalability. These are two of the reasons I use Mathematica. It is geared toward scientific computing, and the same program can be run on a laptop or computer cluster without recoding.&lt;/p&gt;
+
+&lt;p&gt;Completeness gives us the confidence that computational models can provide an accurate description of astrophysical processes. We are not simply limited to models that can be done by hand. We can use computers to extend our understanding of the universe.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Back of the Envelope</title>
+      <link>/back-of-the-envelope/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/back-of-the-envelope/</guid>
+      <description>&lt;p&gt;Astrophysics (like any science) is about getting the details right. As I’ve mentioned earlier, the difference between two theoretical models can be very small (look at the &lt;a href=&#34;https://blog.briankoberlein.com/span-of-a-heartbeat/&#34;&gt;precession of Mercury&lt;/a&gt; as a case in point). But there are times when you just do a rough calculation to see if you are on the right track.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/pressure.png&#34; alt=&#34;Pressure for an ideal star.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Pressure for an ideal star.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Suppose you wanted to determine the pressure and temperature inside the Sun. We could start with a very simple model: assume the Sun is an ideal gas, sitting there quietly under its own weight (known as hydrostatic equilibrium). You would think this is a horrible approximation. The Sun is nothing like an ideal gas, right? It certainly isn’t static. It has flares and convection and is fusing elements in its core. Still, let’s see what our simple model predicts.&lt;/p&gt;
+
+&lt;p&gt;In the figures here I’ve graphed the pressure and temperature of the Sun as a function of its radius. All I’ve assumed is that I have a mass of ideal gas equal to the mass of the Sun, held together by its own weight. In astrophysics lingo, this model is one example of what’s known as a polytropic star. The exact shape of the graphs depends on the type of ideal gas you choose, so for these graphs I chose a gas that’s 75% hydrogen and 25% helium, which is roughly the percentages of the Sun.&lt;/p&gt;
+
+
+&lt;figure class=&#34;left&#34;&gt;
+    
+        &lt;img src=&#34;/image/temperature.png&#34; alt=&#34;Temperature for an ideal star.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Temperature for an ideal star.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The result is that we calculate a central pressure of about 2,500 gigapascal, and a central temperature of about 3.5 million Kelvin. Compared to accepted values, our pressure is too low by a factor of about 100, and our temperature too low by about a factor of 5. Not too bad for such a rough approximation.&lt;/p&gt;
+
+&lt;p&gt;That said, even our rough calculation tells us something important. At the pressure and temperature we calculated it is possible for fusion to occur. Our back of the envelope calculation tells us that we should expect the core of our sun to undergo fusion. When this model was first calculated, it was a good first step to understanding what powers the Sun, and it pointed us in the right direction to develop better models.&lt;/p&gt;
+
+&lt;p&gt;Sometimes even a simplistic model can be very useful.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

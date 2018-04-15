@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on Brian Koberlein</title>
+    <link>/categories/physics/</link>
+    <description>Recent content in Physics on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/physics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Incredible Shrinking Sun</title>
+      <link>/incredible-shrinking-sun/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/incredible-shrinking-sun/</guid>
+      <description>&lt;p&gt;Our Sun has provided Earth with light for billions of years. This light has allowed life to evolve and flourish on our small planet, but it comes at a cost.&lt;/p&gt;
+
+&lt;p&gt;The Sun&amp;rsquo;s light is produced by &lt;a href=&#34;https://briankoberlein.com/2014/06/10/chain-reaction/&#34;&gt;fusion in the Sun&amp;rsquo;s core&lt;/a&gt;. Hydrogen atoms combine to produce helium and light. The light is produced because the mass of a helium atom is slightly smaller than the mass of the four hydrogen atoms that formed it. As Einstein first pointed out, &lt;a href=&#34;https://briankoberlein.com/2014/03/26/muse-fire/&#34;&gt;mass and energy can transform into each other&lt;/a&gt;, so the loss of mass means a gain of energy in the form of light. The light radiates from the Sun, warming our Earth, but that also means over time the Sun loses mass. The Sun consumes mass to produce light.&lt;/p&gt;
+
+&lt;p&gt;As the Sun loses mass its gravitational pull on the planets weakens slightly. The Sun can&amp;rsquo;t hold the planets as strongly as it used to, so the planets drift a bit further away from the Sun. At least that&amp;rsquo;s the theory. The shift of the planets is so small that it&amp;rsquo;s difficult to measure. There have been some studies that &lt;a href=&#34;https://briankoberlein.com/2016/01/01/relative-units/&#34;&gt;seemed to see the effect with Earth&lt;/a&gt;, but the result isn&amp;rsquo;t particularly strong. The usual method of determining planetary distance is to &lt;a href=&#34;https://briankoberlein.com/2015/11/13/casting-radio-shadows-to-map-the-moon-and-venus/&#34;&gt;bounce radio signals off them&lt;/a&gt;, and it&amp;rsquo;s difficult to do it precisely enough to determine the Sun&amp;rsquo;s changing mass.&lt;/p&gt;
+
+&lt;p&gt;There is a much better way to measure the position of planets. Simply put a spacecraft in orbit around it. When the Cassini spacecraft was placed in orbit around Saturn, astronomers used radio signals from Cassini to measure the position of Saturn &lt;a href=&#34;https://briankoberlein.com/2015/01/13/last-mile/&#34;&gt;accurate to within a mile&lt;/a&gt;. We can do this because we know exactly what signal comes from the spacecraft, so any shift in that signal tells us how the spacecraft moves. When the Messenger spacecraft was placed in orbit, astronomers used the same technique to measure the position of Mercury. Using seven years of data they could also determine how Mercury&amp;rsquo;s motion changed over time. They did it precisely enough to observe the weakening of the Sun&amp;rsquo;s gravitational tug.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; They found that the Sun&amp;rsquo;s pull is weakening by about 0.4 trillionths of a percent per year. That agrees with estimates of the Sun&amp;rsquo;s mass loss due to core fusion.&lt;/p&gt;
+
+&lt;p&gt;Mercury has long been used as a test of Einstein&amp;rsquo;s theories. It&amp;rsquo;s motion was the &lt;a href=&#34;https://briankoberlein.com/2014/05/19/einstein-eddington/&#34;&gt;first confirmation&lt;/a&gt; that Einstein&amp;rsquo;s theory of gravity could be correct. It&amp;rsquo;s only fitting that Mercury has now be used to confirm &lt;a href=&#34;https://briankoberlein.com/2015/05/08/heart-of-the-matter/&#34;&gt;Einstein&amp;rsquo;s most famous equation&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Genova, Antonio, et al. &amp;ldquo;Solar system expansion and strong equivalence principle as seen by the NASA MESSENGER mission.&amp;rdquo; Nature communications 9.1 (2018): 289. doi:&lt;a href=&#34;https://www.nature.com/articles/s41467-017-02558-1&#34;&gt;10.1038/s41467-017-02558-1&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Losing Air</title>
+      <link>/losing-air/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/losing-air/</guid>
+      <description>&lt;p&gt;We generally imagine that Earth&amp;rsquo;s atmosphere is a constant, but this isn&amp;rsquo;t so. It turns out air does escape our atmosphere, but it isn&amp;rsquo;t anything to worry about. For any planet, the larger its mass the easier it is to hold on to a gaseous atmosphere. This is part of the reason why Mars has such a thin atmosphere compared to Earth. It also depends on things like temperature (hotter gasses can escape more easily), density (lighter gasses escape faster than heavier gasses), and if the planet has a strong magnetic field (magnetic fields help hold gasses).&lt;/p&gt;
+
+&lt;p&gt;Of course that raises an interesting mystery. Venus is a little smaller than Earth, hotter than Earth, and doesn&amp;rsquo;t have a strong magnetic field like Earth, so it should have a &lt;em&gt;less&lt;/em&gt; dense atmosphere than Earth. In fact, the atmosphere of Venus is &lt;em&gt;much&lt;/em&gt; thicker than Earth&amp;rsquo;s. Why?&lt;/p&gt;
+
+&lt;p&gt;It turns out that Earth has something Venus doesn&amp;rsquo;t &amp;ndash; liquid water. Water is very good at absorbing gasses like carbon dioxide. Water also helps put gasses like CO2 into rocks. So, Earth&amp;rsquo;s atmosphere would be thicker than Venus except for the fact that so much gas is trapped in water and rocks. So the wetness of our planet not only helps to regulate our temperature, it ensures that we don&amp;rsquo;t get crushed by a thick atmosphere.&lt;/p&gt;
+
+&lt;p&gt;So how much time do we have? Given the rate at which we lose atmosphere, and all the spare atmosphere we have trapped in the oceans and rocks, we will have atmosphere for as long as the sun shines. That gives us about 5 billion years, so mark your calendars!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Span of a Heartbeat</title>
+      <link>/span-of-a-heartbeat/</link>
+      <pubDate>Sat, 31 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/span-of-a-heartbeat/</guid>
+      <description>&lt;p&gt;One aspect of general relativity that always amazes me is the level of precision needed to distinguish it from Newtonian gravity. Take, for example, the advance of Mercury’s perihelion. When you count in the gravitational tugs from the sun and all the planets, Newton predicts Mercury’s perihelion will advance about 531.65 arcseconds per century. When we measure the orbit of Mercury, we find its perihelion &lt;em&gt;actually&lt;/em&gt; advances 574.10 arcseconds per century. This means Newton’s prediction is off by about 42.45 arcseconds per century. I say “about” because there is an uncertainty in our observations of about 0.65. General relativity predicts an “extra” perihelion advance of 42.98, which agrees exactly with experimental observation.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/precession.jpg&#34; alt=&#34;Precession of a planet. Credit: Kenneth R. Lang&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Precession of a planet. Credit: Kenneth R. Lang
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The difference between Newton’s model and Einstein’s amounts to 28 millionths of a degree each orbital revolution. Put another way, Mercury makes one orbit every 87.969 days, but it reaches its perihelion about a half second later than Newton says it should. The difference between Newton and Einstein is less than a human heartbeat in time.&lt;/p&gt;
+
+&lt;p&gt;The most amazing thing about all this? This deviation from Newton was first accurately measured by Urbain Le Verrier in 1859.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

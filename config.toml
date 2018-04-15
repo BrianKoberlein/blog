@@ -1,0 +1,15 @@
+baseurl = "https://blog.briankoberlein.com/"
+languageCode = "en"
+copyright = "CC BY-NC 4.0"
+rsslimit = 20
+title = "Brian Koberlein"
+
+googleAnalytics = "UA-32734539-1"
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.bib$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = ":slug/"
+    note = "/note/:year/:month/:day/:slug/"

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercury on Brian Koberlein</title>
+    <link>/tags/mercury/</link>
+    <description>Recent content in Mercury on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Sat, 31 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/mercury/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Span of a Heartbeat</title>
+      <link>/span-of-a-heartbeat/</link>
+      <pubDate>Sat, 31 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/span-of-a-heartbeat/</guid>
+      <description>&lt;p&gt;One aspect of general relativity that always amazes me is the level of precision needed to distinguish it from Newtonian gravity. Take, for example, the advance of Mercury’s perihelion. When you count in the gravitational tugs from the sun and all the planets, Newton predicts Mercury’s perihelion will advance about 531.65 arcseconds per century. When we measure the orbit of Mercury, we find its perihelion &lt;em&gt;actually&lt;/em&gt; advances 574.10 arcseconds per century. This means Newton’s prediction is off by about 42.45 arcseconds per century. I say “about” because there is an uncertainty in our observations of about 0.65. General relativity predicts an “extra” perihelion advance of 42.98, which agrees exactly with experimental observation.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/precession.jpg&#34; alt=&#34;Precession of a planet. Credit: Kenneth R. Lang&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Precession of a planet. Credit: Kenneth R. Lang
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The difference between Newton’s model and Einstein’s amounts to 28 millionths of a degree each orbital revolution. Put another way, Mercury makes one orbit every 87.969 days, but it reaches its perihelion about a half second later than Newton says it should. The difference between Newton and Einstein is less than a human heartbeat in time.&lt;/p&gt;
+
+&lt;p&gt;The most amazing thing about all this? This deviation from Newton was first accurately measured by Urbain Le Verrier in 1859.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

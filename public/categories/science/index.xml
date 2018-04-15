@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Brian Koberlein</title>
+    <link>/categories/science/</link>
+    <description>Recent content in Science on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Greatest Show On Earth</title>
+      <link>/greatest-show-earth/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/greatest-show-earth/</guid>
+      <description>&lt;p&gt;Yesterday an eccentric billionaire launched his electric car into space, and you could watch it live on the internet.&lt;/p&gt;
+
+&lt;p&gt;Elon Musk is nothing if not bold. He is also a master showman, transforming a risky first launch of the Falcon Heavy into a $90 million commercial for his car company. With his big dreams and slick marketing, Musk seems like a character out of science fiction or comic books. But behind the showman is a team of highly skilled workers. They not only do some amazing engineering, they also do some amazing science.&lt;/p&gt;
+
+&lt;p&gt;We often think of science and engineering as two separate things. Science asks deep questions and expands the horizon of human understanding, while engineering applies scientific understanding to technological problems. But often the line is blurred. Often scientific research requires complex and cutting edge engineering.&lt;/p&gt;
+
+&lt;p&gt;For example, at Green Bank Observatory one research project known as Mustang II studies the very cold gas and dust in our galaxy. To do this, the Mustang II detector has to be kept extremely cold. Only ⅕ of a degree above absolute zero. In order to gather data, the research team had to design and build a detector that can remain that cold while mounted on the boom of the 100-meter Green Bank Telescope. It&amp;rsquo;s a difficult piece of engineering, which is part of the reason Mustang II can be finicky and difficult to maintain. Science depends upon engineering.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/spacexworkers.jpg&#34; alt=&#34;More than 7,000 people work at SpaceX.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        More than 7,000 people work at SpaceX.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;While many companies just rely on good design and engineering. That isn&amp;rsquo;t the case for Musk&amp;rsquo;s companies such as Tesla or SpaceX. In order for electric cars to succeed, we will need to develop more efficient batteries, and that requires new research in material science. New discoveries in artificial intelligence are needed to allow cars to drive themselves. Likewise, SpaceX has an aggressive plan to launch ever more powerful rockets, and that will require more efficient rocket engines with cheaper fuels and lighter materials. These companies aren&amp;rsquo;t just designing products, they are undertaking scientific research to achieve their goals. Elon Musk understands this, and it allows his companies to pursue goals that are both high risk and high reward.&lt;/p&gt;
+
+&lt;p&gt;Musk has made it clear that his long term goal is to put humans on Mars, and that&amp;rsquo;s going to take more than showmanship. It&amp;rsquo;s going to take Big Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Back of the Envelope</title>
+      <link>/back-of-the-envelope/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/back-of-the-envelope/</guid>
+      <description>&lt;p&gt;Astrophysics (like any science) is about getting the details right. As I’ve mentioned earlier, the difference between two theoretical models can be very small (look at the &lt;a href=&#34;https://blog.briankoberlein.com/span-of-a-heartbeat/&#34;&gt;precession of Mercury&lt;/a&gt; as a case in point). But there are times when you just do a rough calculation to see if you are on the right track.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/pressure.png&#34; alt=&#34;Pressure for an ideal star.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Pressure for an ideal star.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Suppose you wanted to determine the pressure and temperature inside the Sun. We could start with a very simple model: assume the Sun is an ideal gas, sitting there quietly under its own weight (known as hydrostatic equilibrium). You would think this is a horrible approximation. The Sun is nothing like an ideal gas, right? It certainly isn’t static. It has flares and convection and is fusing elements in its core. Still, let’s see what our simple model predicts.&lt;/p&gt;
+
+&lt;p&gt;In the figures here I’ve graphed the pressure and temperature of the Sun as a function of its radius. All I’ve assumed is that I have a mass of ideal gas equal to the mass of the Sun, held together by its own weight. In astrophysics lingo, this model is one example of what’s known as a polytropic star. The exact shape of the graphs depends on the type of ideal gas you choose, so for these graphs I chose a gas that’s 75% hydrogen and 25% helium, which is roughly the percentages of the Sun.&lt;/p&gt;
+
+
+&lt;figure class=&#34;left&#34;&gt;
+    
+        &lt;img src=&#34;/image/temperature.png&#34; alt=&#34;Temperature for an ideal star.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Temperature for an ideal star.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The result is that we calculate a central pressure of about 2,500 gigapascal, and a central temperature of about 3.5 million Kelvin. Compared to accepted values, our pressure is too low by a factor of about 100, and our temperature too low by about a factor of 5. Not too bad for such a rough approximation.&lt;/p&gt;
+
+&lt;p&gt;That said, even our rough calculation tells us something important. At the pressure and temperature we calculated it is possible for fusion to occur. Our back of the envelope calculation tells us that we should expect the core of our sun to undergo fusion. When this model was first calculated, it was a good first step to understanding what powers the Sun, and it pointed us in the right direction to develop better models.&lt;/p&gt;
+
+&lt;p&gt;Sometimes even a simplistic model can be very useful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Five Gripes About Children’s Television</title>
+      <link>/five-gripes-about-childrens-television/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/five-gripes-about-childrens-television/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lab Coats&lt;/strong&gt;&amp;ndash; Perhaps the most common stereotype about scientists is that they always wear lab coats. This is reinforced in children&amp;rsquo;s shows, where the &amp;ldquo;scientist&amp;rdquo; host wears a lab coat. They wear it &lt;em&gt;everywhere&lt;/em&gt;, &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;. Think &lt;em&gt;Bill Nye&lt;/em&gt;, &lt;em&gt;Beakman&amp;rsquo;s World&lt;/em&gt;, &lt;em&gt;Nina and the Neurons&lt;/em&gt;, etc. When you see a children&amp;rsquo;s television host wearing a lab coat, you know they&amp;rsquo;re a &amp;ldquo;scientist&amp;rdquo;. Of course this reinforces the idea that scientists are the &amp;ldquo;other&amp;rdquo;. You know scientists couldn&amp;rsquo;t possibly live in your neighborhood, since you never see anyone mowing their lawn or out for a morning jog in their lab coat.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Science = explosions&lt;/strong&gt;&amp;ndash; Let&amp;rsquo;s face it, explosions are cool. And nothing gets people&amp;rsquo;s attention faster than loud noises and fire. (Hey, it works for &lt;em&gt;Mythbusters&lt;/em&gt;). Of course in real scientific research, explosions are usually the last thing you want. Real science is about inquiry and observation, not simply blowing stuff up. A variation of this gripe is the common &amp;ldquo;science = magic&amp;rdquo; schtick where the lab-coated scientist shows you a trick. Magic? No, Science!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Girls rule, Boys drool&lt;/strong&gt;&amp;ndash; Fortunately there has been a shift away from the idea that only boys do science. There is still a disparity between girls and boys in STEM fields. Although overall more American women than men major in STEM at the college level, women are drawn to areas such as psychology rather than physics or engineering. To address this issue educators have introduced programs such as &amp;ldquo;Women in Engineering&amp;rdquo;, which has helped to raise the percentage of girls in those areas. Children&amp;rsquo;s science television has also shifted to address the interests of girls, and have even developed shows such as &lt;em&gt;SciGirls&lt;/em&gt; that focus on women in science. But sometimes in the effort to portray girls in a positive light they also portray boys in a negative light. In &lt;em&gt;SciGirls&lt;/em&gt; the effect is subtle. Izzie and the other girls use science to solve problems. The boy Jake, while nice, is a bit clueless about science, and usually needs help from the girls. In other shows, such as &lt;em&gt;Spaced Out: A Cosmic Scene&lt;/em&gt;, the effect is more blatant. Here the woman is a smart articulate scientist, while the boyish man is a silent mouth breather whose only role is to be ridiculed.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Actors as &amp;ldquo;scientists&amp;rdquo;&lt;/strong&gt;&amp;ndash; Just as the host always wears a lab coat, the host is always a &amp;ldquo;scientist&amp;rdquo;. Of course, they aren&amp;rsquo;t scientists, they&amp;rsquo;re professional actors (okay, Bill Nye is also an engineer). There isn&amp;rsquo;t anything wrong with actors playing the role of a scientist on a children&amp;rsquo;s television show, except when the host is always a &amp;ldquo;scientist&amp;rdquo;, and only the &amp;ldquo;scientist&amp;rdquo; leads the science. This reinforces the idea that only scientists can do science, when in fact anyone can. Imagine if we taught kids that only professional athletes do sports, while kids can only &amp;ldquo;play&amp;rdquo; doing sports (and only under the careful observation of a real athlete).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Answers from authority&lt;/strong&gt;&amp;ndash; When your host is a scientist, you always know that he or she will give you the right answer in the end. The expert will tell children what is right or wrong rather than encouraging children to develop their own answers based on inquiry and observation. Rather than demonstrating observation, inquiry and scientific thinking, many children&amp;rsquo;s shows simply have the scientist host dictate the answer from on high.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

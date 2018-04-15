@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Brian Koberlein</title>
+    <link>/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Tue, 05 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Illusion of Truth</title>
+      <link>/the-illusion-of-truth/</link>
+      <pubDate>Tue, 05 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/the-illusion-of-truth/</guid>
+      <description>&lt;p&gt;Physical theories are often presented as a description of what&amp;rsquo;s really going on. Forces act on a baseball, causing it to fall. Atoms collide and fuse in the heart of a star, releasing heat and energy. Science is true, as is often said, and our scientific theories encapsulate this truth. But this isn&amp;rsquo;t entirely true.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/HydrogenDensityPlots.png&#34; alt=&#34;The probability distributions for hydrogen in different energy states.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The probability distributions for hydrogen in different energy states.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;For example, quantum mechanics is a &lt;a href=&#34;https://briankoberlein.com/2013/11/16/taking-the-quantum-leap/&#34;&gt;strange&lt;/a&gt;, sometimes confusing theory. Objects can be &lt;a href=&#34;https://briankoberlein.com/2014/03/07/duality/&#34;&gt;particles and waves&lt;/a&gt;. They do strange things like &lt;a href=&#34;https://briankoberlein.com/2013/10/17/the-suns-magic/&#34;&gt;tunnel through barriers&lt;/a&gt;, and can even &lt;a href=&#34;https://briankoberlein.com/2014/08/28/great-escape/&#34;&gt;appear and disappear&lt;/a&gt;.  Given all this strangeness, what&amp;rsquo;s really going on? What&amp;rsquo;s the true nature of quantum reality? It depends on which approach you want to take. In one view quantum objects are described by a wave-like probability function. When you interact with or &amp;ldquo;observe&amp;rdquo; the object this &amp;ldquo;wavefunction&amp;rdquo; collapses into a definite state. That&amp;rsquo;s view commonly presented, but a quantum system can also be described by its transitions between energy states. Since this uses a mathematical method involving matrices, it&amp;rsquo;s known as matrix mechanics. Both wavefunctions and matrix mechanics give the same results, but their view of what really goes on is very different. Then there&amp;rsquo;s the &lt;a href=&#34;https://briankoberlein.com/2015/02/27/dance-of-the-hag/&#34;&gt;path integral method&lt;/a&gt;. Rather than a wavefunction or matrix transitions, path integrals imagine quantum objects can take almost any path between two states. By summing all the possible paths you can derive the odds that it will occur.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/heliumlev.gif&#34; alt=&#34;The matrix transition version of quantum theory doesn&amp;#39;t care about the wavefunction.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The matrix transition version of quantum theory doesn&amp;#39;t care about the wavefunction.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;So which one is true? Are quantum objects distributed waves of probability? Are they simply transitions between energy states? Do they take an infinite number of paths between states? Each of these models make the same predictions, so one version is no more &amp;ldquo;true&amp;rdquo; than the others. What happens in practice is that we&amp;rsquo;ll use whatever method is useful at the time. They are equivalent models, so the best model for the job is the one we&amp;rsquo;ll use. The only reason the wavefunction view is so common is that it&amp;rsquo;s the version usually taught to introductory students.&lt;/p&gt;
+
+&lt;p&gt;You might think this uncertainty of truth is due to the behavior of quantum physics itself. It&amp;rsquo;s so strange and counterintuitive that we can&amp;rsquo;t wrap our puny brains around what&amp;rsquo;s really going on. But the same thing occurs in lots of other fields. Even something as straight forward as basic Newtonian physics.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/pathintegrals.jpg&#34; alt=&#34;In the path integral view many potential paths are summed.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        In the path integral view many potential paths are summed.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Toss a baseball in the air and Earth&amp;rsquo;s gravitational force pulls it down. The force of gravity is a simple truth, right? While we often describe classical motion in terms of forces and acceleration, we can also describe it in terms of energy and momentum. In the Lagrangian and Hamiltonian approach, the path of a baseball is the optimized path among possibilities. In this view a baseball&amp;rsquo;s path is the extrema of an energy equation, and force can be derived as a necessary consequence of this. In the relativistic view the baseball follows a geodesic, which is the minimal path through space and time. So is a baseball&amp;rsquo;s motion due to a gravitational force, an energy extrema, or a spacetime geodesic? As with quantum theory, different approaches yield the same result. They are mathematically equivalent, so we can use whatever method is most useful at the time.&lt;/p&gt;
+
+&lt;p&gt;At its core, science is less about truth and more about models. The metaphysics underlying a model is useful only as far as it allows us to make better predictions, generate new ideas, or bring models together as a cohesive whole. This is why we have no problem using classical gravity to calculate the path of a spacecraft through the solar system, while using special relativity to account for the Doppler shift of the spacecraft&amp;rsquo;s radio signals. It&amp;rsquo;s why we can use quantum physics to study atoms in the morning, and general relativity to study black holes in the afternoon. In regimes where models conflict with each other it isn&amp;rsquo;t a failure of truth, but instead shows an opportunity to develop a better model.&lt;/p&gt;
+
+&lt;p&gt;It could be that with each better model we move closer to the truth about reality. The truth is out there, and science strives to move towards that truth. It&amp;rsquo;s a common view, and certainly the search for truth has driven many scientists to develop better and better models. But the real power of science is the recognition that what we have are models. Our models can be powerful, but they are always a bit tentative. There&amp;rsquo;s always a chance that they might just be an illusion of truth.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

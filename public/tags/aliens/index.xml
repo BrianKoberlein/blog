@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aliens on Brian Koberlein</title>
+    <link>/tags/aliens/</link>
+    <description>Recent content in Aliens on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/aliens/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaker for the Dead</title>
+      <link>/speaker-for-the-dead/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/speaker-for-the-dead/</guid>
+      <description>&lt;p&gt;Perhaps the most profound question we can hope to answer is whether we are alone in the universe. The vast cosmos is scattered with countless solar systems, and many of these have at least the potential for life. It is quite possible that the universe is teeming with a wondrous variety of exotic life and alien civilizations. It is also possible that life is so rare that Earth alone is life&amp;rsquo;s home.&lt;/p&gt;
+
+&lt;p&gt;But what are the odds one way or the other? In 1961 Frank Drake proposed an equation to find out. Drake intended it as a way to frame discussion on the topic, but it came to be known as the &lt;a href=&#34;https://briankoberlein.com/2014/03/15/forever-alone/&#34;&gt;Drake Equation&lt;/a&gt;. The equation itself is basically a product of the rate at which stars form in our galaxy, how many stars have planets, how many planets they typically have, what fraction are habitable, what fraction of habitable planets form life, how many form intelligent life, then civilizations, and how long those civilizations last. If you know all of those values, you can calculate the number of civilizations currently living in our galaxy.&lt;/p&gt;
+
+&lt;p&gt;In 1961 most of the parameters could only be guessed at. We didn&amp;rsquo;t know, for example, whether other stars had planets, since not a single exoplanet had yet been discovered. But we now know that planets are common, and there are somewhere between 8 and 20 billion potentially habitable planets in our galaxy. As a result, there&amp;rsquo;s been renewed interest in searching for signals from alien civilizations.&lt;/p&gt;
+
+&lt;p&gt;Suppose we were to discover such a signal. Suppose a radio telescope starts to detect an unmistakable message from a distant star. &amp;ldquo;Hello! We are where! Message back if you get this!&amp;rdquo; Even the simplest message would revolutionize our understanding of life in the universe.&lt;/p&gt;
+
+&lt;p&gt;But the space between stars is vast, and light takes thousands of years to travel between them. In the time it takes an alien message to reach us, they may have been destroyed by a plague, a meteor impact. In their folly they might destory themselves through war or environmental devastation. The message we receive could be the last cosmic breath of a dead civilization.&lt;/p&gt;
+
+&lt;p&gt;Recently a team &lt;a href=&#34;https://arxiv.org/abs/1802.09399&#34;&gt;looked at this very question&lt;/a&gt;.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; If we discover an alien civilization, what are the odds that they are dead. Like Drake&amp;rsquo;s original equation, their model is rather simple, and intended to foster discussion.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/signalshells.jpg&#34; alt=&#34;The expanding signals of dead civilizations cover the most area. Credit: Grimaldi, et al.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The expanding signals of dead civilizations cover the most area. Credit: Grimaldi, et al.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The basic premise is that civilizations survive for a certain period of time, and while they survive they emit signals that could be detected by other civilizations. For example, human civilization has been around for about 12,000 years, but we&amp;rsquo;ve only been able to send radio signals into space for about a century. Those signals travel into space in all directions, so there is an &lt;a href=&#34;https://briankoberlein.com/2015/02/19/e-t-phone-home/&#34;&gt;expanding sphere of signals&lt;/a&gt; from Earth about 100 light years in radius. In the unlikely event that our civilization ends this year, our radio signals would continue to spread outward in a spherical shell 100 light years thick.&lt;/p&gt;
+
+&lt;p&gt;If there are lots of civilizations in our galaxy, the expanding envelope of their signals would spread throughout the galaxy, eventually overlapping in places. The team then calculated the odds of detecting a signal from a still living civilization vs a dead one. They found that it depends on how long civilizations typically survive. If the age is typically more than 100,000 years, then we are more likely to detect a message from a living civilization. If the lifetime of a civilization is less than that, any message we receive is likely to be from a dead world.&lt;/p&gt;
+
+&lt;p&gt;We have only been sending signals into space for a century. Do you think our civilization will survive for the next 100 centuries. Will humans still exist in the year 102,018? Or will we perish, leaving only the echoes of our once thriving species. Echoes of a species that arose from the dust for a cosmic moment, but while they lived saw only a lonely night.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Grimaldi, Claudio, Geoffrey W. Marcy, Nathaniel K. Tellis, and Frank Drake. &amp;ldquo;Area Coverage of Expanding ET Signals in the Galaxy: SETI and Drake’s N.&amp;rdquo; Publications of the Astronomical Society of the Pacific 130, no. 987 (2018): 054101.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

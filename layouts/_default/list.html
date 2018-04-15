@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main>
+    <article>
+            <h1 id="recent">{{.Title}}</h1>
+            <section class="recent">
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Content}}
+        </section>
+    <ul>
+    <!-- Ranges through content/post/*.md -->
+    {{ range .Data.Pages }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}} | {{.Date.Format "2 January 2006"}}</a>
+        </li>
+    {{ end }}
+    </ul>
+<section id="coda">
+<p class="meta" id="note">
+      Articles may be used under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 license</a>.<br />
+      Last revised on <time datetime="{{ now.Format "2006-01-02" }}">{{ now.Format "2 January 2006" }}</time>.</p>
+  </section>
+</article>
+</main>
+{{ end }}

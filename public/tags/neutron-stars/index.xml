@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neutron stars on Brian Koberlein</title>
+    <link>/tags/neutron-stars/</link>
+    <description>Recent content in Neutron stars on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/neutron-stars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Waking the Dead</title>
+      <link>/waking-dead/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/waking-dead/</guid>
+      <description>&lt;p&gt;Every star dies. Our Sun will shine for about 5 billion more years, but the time will come when it swells to a red giant for a time, then collapse to become a white dwarf. Larger stars live shorter lives, and can eventually collapse to become neutron stars.&lt;/p&gt;
+
+&lt;p&gt;White dwarfs and neutron stars can truly be considered dead stars. Unlike regular stars, they don&amp;rsquo;t generate heat internally through nuclear fusion. They don&amp;rsquo;t have active periods with solar flares. They simply cool slowly over billions of years.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/NSandMH.gif&#34; alt=&#34;A neutron star compared in size to Manhattan island.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A neutron star compared in size to Manhattan island.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;That is, unless they have a companion star. When two stars orbit each other closely, material from one star can sometimes transfer to the other. This most often occurs when a red giant and white dwarf orbit closely. Material from the outer layers of the red giant can captured by the white dwarf. If the white dwarf captures enough material, it can cause the white dwarf to collapse, triggering a supernova. In principle a similar effect should be possible with a neutron star, where material captured from a red dwarf companion causes the neutron star to be active again. Now this effect has been observed.&lt;/p&gt;
+
+&lt;p&gt;As described in a paper&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; from Astronomy &amp;amp; Astrophysics, the team observed x-rays emitting from a previously quiet neutron star. The x-rays are generated when the neutron star captures matter from its companion. While this type of interaction isn&amp;rsquo;t surprising, it demonstrates how dynamic these binary systems can be, and it may help us better understand how these &amp;ldquo;odd-couple&amp;rdquo; binaries evolve over time.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Bozzo, E., et al. &amp;ldquo;IGR J17329-2731: The birth of a symbiotic X-ray binary.&amp;rdquo; arXiv preprint arXiv:1803.01593 (2018). &lt;a href=&#34;https://doi.org/10.1051/0004-6361/201832588&#34;&gt;DOI: 10.1051&amp;#47;0004-6361&amp;#47;201832588&lt;/a&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turn, Turn, Turn</title>
+      <link>/turn-turn-turn/</link>
+      <pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/turn-turn-turn/</guid>
+      <description>&lt;p&gt;The gravitational attraction an object has on you depends on how much mass it has, and how far away you are away from it. If the mass is spherical, then the closest you can get to its center (without digging) is its surface. This means that the gravitational strength of a spherical star/planet depends on its mass and its density. The higher an object&amp;rsquo;s density, the smaller its radius, and the stronger gravity is on its surface.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/pulsardiagram.jpg&#34; alt=&#34;Diagram of a pulsar. Credit: NRAO&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Diagram of a pulsar. Credit: NRAO
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Now suppose we spin our spherical world. If we are standing on its surface, we would have a tendency to fly off the world due to its rotation. The gravity is stronger than the centrifugal force, so we stay put. But if we could spin the world faster and faster, we would reach a point where the centrifugal force is equal to the force of gravity. Spin the world any faster, and we would fly off. This means that for a given density for a planet/star, there is a maximum rate of rotation. Any faster and it would fly apart. Put another way, if we measure the rotation of a planet or star, we know its minimum density.&lt;/p&gt;
+
+&lt;p&gt;Very roughly, we can calculate that density in grams per cubic centimeter by taking 140 million and dividing it by the square of an object&amp;rsquo;s period in seconds. So for the Earth, the period is 24 hours or 86,400 seconds. Plug that into our equation and we get a minimum density of about 0.02 g/cc. The Earth&amp;rsquo;s real density is about 5 g/cc, well above that minimum.&lt;/p&gt;
+
+&lt;p&gt;Pulsars are kind of like cosmic light houses. As they rotate they sweep out a beam of radio waves from their magnetic poles. If those poles are pointing in our direction, we can &lt;a href=&#34;http://www.jb.man.ac.uk/pulsar/Education/Sounds/sounds.html&#34;&gt;hear each rotation as a pulse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The fastest pulsars have a rotational period of about 1/1000th of a second. Plug that into our equation, and you get a minimum density of about 100 teragrams/cc. Thats 1 with 14 zeros after it. 100 trillion grams per sugar cube volume. That density is unimaginably high, but it also happens to be about the density of the nuclei of atoms.&lt;/p&gt;
+
+&lt;p&gt;So pulsars are as dense as atomic nuclei, only several kilometers in diameter. We call them neutron stars.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

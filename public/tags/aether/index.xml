@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aether on Brian Koberlein</title>
+    <link>/tags/aether/</link>
+    <description>Recent content in Aether on Brian Koberlein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY-NC 4.0</copyright>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/aether/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Follow My Lead</title>
+      <link>/follow-my-lead/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/follow-my-lead/</guid>
+      <description>&lt;p&gt;Yesterday a gentleman posted a comment on an article I wrote about the &lt;a href=&#34;https://briankoberlein.com/2015/08/11/does-the-aether-exist-hint-no/&#34;&gt;luminiferous aether&lt;/a&gt;. For those who aren&amp;rsquo;t familiar, the aether was an idea proposed in the 1800s to explain how light can travel through empty space. Several experiments trying to observe the aether were performed in the late 1800s, but weren&amp;rsquo;t successful. This led Einstein to propose the theory of special relativity. Thus, the aether doesn&amp;rsquo;t exist and the rest is history.&lt;/p&gt;
+
+&lt;p&gt;But this gentleman doesn&amp;rsquo;t believe in relativity. He thinks the Earth is stationary and at the center of creation. He proceeded to tell me so, and cited a paper from Nature&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; that he claimed proved Einstein is wrong, and the aether exists.&lt;/p&gt;
+
+&lt;p&gt;Nature is a fairly impressive journal, so a controversial article on relativity is worth checking out. The gentleman didn&amp;rsquo;t give a proper citation, just &amp;ldquo;Nature Magazine August volume 322,&amp;rdquo; but it was a start. A quick internet search found dozens of websites citing the same article, all arguing the Earth doesn&amp;rsquo;t move, and all citing this article as evidence. A bit more searching and I found a &lt;a href=&#34;https://www.nature.com/articles/322590b0.pdf&#34;&gt;copy of the article&lt;/a&gt;. Well, kind of.&lt;/p&gt;
+
+&lt;p&gt;It turns out it isn&amp;rsquo;t an article. It&amp;rsquo;s a one column letter to the editor by one E. W. Silvertooth claiming he did an experiment with details to follow. No evidence, no link, no peer review, just an unsubstantiated claim. Still, supporters of a fixed Earth model cite this article a great deal, refering to it as the Silvertooth experiment. What they don&amp;rsquo;t tend to do is cite any actual experiment.&lt;/p&gt;
+
+
+&lt;figure class=&#34;center&#34;&gt;
+    
+        &lt;img src=&#34;/image/silvertooth.png&#34; alt=&#34;A diagram recreating the Silvertooth experiment. Credit: Doug Marett&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A diagram recreating the Silvertooth experiment. Credit: Doug Marett
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;A bit more searching led me to an &lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.8179&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;actual article&lt;/a&gt; describing the experiment.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Published in &lt;em&gt;Speculations in Science and Technology&lt;/em&gt;, it outlines a way to measure the relative motion of the Earth through the aether. Silvertooth argues that if the speed of light changes, the wavelength of light must also change, analogous to the &lt;a href=&#34;https://briankoberlein.com/2013/09/05/doppler-effect/&#34;&gt;Doppler effect&lt;/a&gt;. He then describes how he compared wavelengths in the direction of Earth&amp;rsquo;s motion with wavelengths perpendicular to Earth&amp;rsquo;s motion. Since relativity assumes the speed of light is a constant, there shouldn&amp;rsquo;t be any difference. But Silvertooth seems to find a difference, and measures the Earth&amp;rsquo;s speed to be 378 km/s in the direction of the constellation Leo. Interestingly, &lt;a href=&#34;https://briankoberlein.com/2013/10/13/relative-motion/&#34;&gt;observations of the cosmic microwave background&lt;/a&gt; shows that Earth is moving through the universe in that direction at 371 km/s. How very fascinating! This experiment shouldn&amp;rsquo;t work, and yet it seems to overturn special relativity. Could Einstein have been wrong after all?&lt;/p&gt;
+
+&lt;p&gt;The Silvertooth experiment is part of a range of experiments related to the &lt;a href=&#34;https://briankoberlein.com/2015/02/14/burden-proof/&#34;&gt;one-way speed of light&lt;/a&gt;. The idea is that early experiments on relativity, such as the famous &lt;a href=&#34;https://briankoberlein.com/2013/10/14/aether-or/&#34;&gt;Michelson-Morley experiment&lt;/a&gt;, only measured the total travel time of light not the travel time in a single direction. What if the speed of light is slower in one direction, but faster in the opposite direction? What if the aether flowed past us like a river. The speed of light would be faster when moving downstream and slower coming back upstream, but the total travel time would be the same as if there were no aether at all.&lt;/p&gt;
+
+&lt;p&gt;The story of how early relativity experiments proved the aether doesn&amp;rsquo;t exist isn&amp;rsquo;t really true. What they showed was that the aether isn&amp;rsquo;t needed to explain the results. By the 1970s it was demonstrated&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; that if an aether exists it must be completely undetectable by relativity experiments. The results would still agree with Einstein. So over the decades interest in the aether mostly waned. Why assume there is an aether when relativity does just fine without it?&lt;/p&gt;
+
+&lt;p&gt;But then how to explain Silvertooth&amp;rsquo;s results? It could be that he just got bad results, but the experiment was done several times and seemed to be consistent. And Silvertooth was no slacker. He was a physicist who joined Paramount Studios as an engineer during the great depression, won an Oscar for Technical Merit in 1942, and then went on to work for an Air Force think tank. But Silvertooth was also rather terse about the results, and since hundreds of experiments agree with relativity his results were probably wrong. The experiment faded into history, remembered mainly by the kind of people who think Aristotle was right about astrophysics.&lt;/p&gt;
+
+&lt;p&gt;This is usually where the story ends. Obscure experiments like this don&amp;rsquo;t often get repeated, and when they do they&amp;rsquo;re usually done by people who aren&amp;rsquo;t trained experimentalists. But in 2012 Doug Marett actually repeated the experiment&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, and &lt;a href=&#34;http://www.conspiracyoflight.com/Silvertooth/Silvertooth.html&#34;&gt;what he found&lt;/a&gt; is fascinating.&lt;/p&gt;
+
+&lt;p&gt;Over the course of 18 months Marett recreated the Silvertooth experiment, and confirmed the result. There was an apparent shift in wavelength that varied with the orientation of Earth, and it did seem to show an apparent motion of Earth in agreement with Silvertooth&amp;rsquo;s intial findings. But looking at the data more carefully, Marett also found that there was a lot of fluctuation in the data.&lt;/p&gt;
+
+
+&lt;figure class=&#34;right&#34;&gt;
+    
+        &lt;img src=&#34;/image/silvertoothtemp.jpg&#34; alt=&#34;The correlation of apparent shift with room temperature. Credit: Doug Marett&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The correlation of apparent shift with room temperature. Credit: Doug Marett
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Silvertooth&amp;rsquo;s original claim was that the wavelengths varied over the course of a sidereal day. A &lt;a href=&#34;https://briankoberlein.com/2013/11/27/a-suns-day/&#34;&gt;sidereal day&lt;/a&gt; is measured relative to the motion of the stars. Our normal solar day is based upon the motion of the Sun. Because of the Earth&amp;rsquo;s motion around the Sun, a solar day is about 4 minutes longer than a sidereal day. If Silvertooth was right, the wavelength variations should follow sidereal time, not solar time. Marett found there was so much noise in the data, the variation in wavelengths could be made to agree with either sidereal or solar time. Digging into things more closely, he saw a correlation between the observed wavelength shift and small fluctuations in the temperature of the room. The change in temperature was shifting the alignment of the experiment laser, causing the apparent shift Silvertooth saw. Marett also found that the calculated motion of the Earth only worked because Silvertooth assumed the data measured an actual wavelength shift. Silvertooth&amp;rsquo;s results were real, but his conclusions were wrong.&lt;/p&gt;
+
+&lt;p&gt;This doesn&amp;rsquo;t mean the aether doesn&amp;rsquo;t exist, but for now it is clear we don&amp;rsquo;t need an aether to explain Silvertooth&amp;rsquo;s experiment. In a broader sense, this story is an excellent example of the striking difference between science and pseudoscience. In pseduoscience folks are content to cite an article without any consideration of the actual results. If it seems to agree with your expectations, then that&amp;rsquo;s good enough. As a scientist, Marett took the time to look at an old experiment with a questioning eye. In doing so he solved a 30-year old mystery of the experiment that seemed to prove Einstein wrong.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Silvertooth, E. W. &amp;ldquo;Special relativity.&amp;rdquo; Nature 322.6080 (1986): 590-590.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Silvertooth, Ernest Wilbur. &amp;ldquo;Experimental detection of the ether.&amp;rdquo; Speculations in Science and Technology 10.1 (1986): 3.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;Winnie, John A. &amp;ldquo;Special relativity without one-way velocity assumptions: Part II.&amp;rdquo; Philosophy of Science 37.2 (1970): 223-238.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;Marett, Doug. &amp;ldquo;A Replication of the Silvertooth Experiment.&amp;rdquo;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
