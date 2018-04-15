@@ -18,7 +18,10 @@
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/changes-wind/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;re reading this, welcome to the new website.&lt;/p&gt;
+      <description><figure class="featured">
+      <img src="/image/journal.jpg" alt="" />
+      <figcaption><p>Welcome to the journal.</p></figcaption>
+    </figure>&lt;p&gt;If you&amp;rsquo;re reading this, welcome to the new website.&lt;/p&gt;
 
 &lt;p&gt;When I began One Universe at a Time five years ago, it was really as a way to archive things I&amp;rsquo;d been &lt;a href=&#34;https://plus.google.com/+BrianKoberlein&#34;&gt;writing on Google+&lt;/a&gt;. To make things easy, I set it up on a Wordpress server. It&amp;rsquo;s quick, simple, and there are lots of hosting options. Wordpress is great if you have a relatively small site, but thousands of posts and ever increasing bandwidth starts taking a toll. Over the past several months the backend of the website has gotten ever slower, with no end in site. When my hosting provider announced yet another price increase, the time was right to move.&lt;/p&gt;
 
@@ -38,7 +41,10 @@
       <pubDate>Fri, 30 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>/small-beginnings/</guid>
-      <description>&lt;p&gt;So I’ve finally made a personal website.  All the cool kids are doing it these days, and I didn’t want to be left behind.&lt;/p&gt;
+      <description><figure class="featured">
+      <img src="/image/mydesk.jpg" alt="" />
+      <figcaption><p>Yep, that&#39;s my desk.</p></figcaption>
+    </figure>&lt;p&gt;So I’ve finally made a personal website.  All the cool kids are doing it these days, and I didn’t want to be left behind.&lt;/p&gt;
 
 &lt;p&gt;I’ve had personal websites before, but these have always been hosted by the various institutes where I’ve been employed, and over time these sites either relocated or faded away.  This is the first time I have a site with a domain and server I control, so I can ensure that pages won’t disappear, and the site won’t be relocated to another domain.  Here I stand, as it were.&lt;/p&gt;
 

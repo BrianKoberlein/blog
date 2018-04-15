@@ -18,7 +18,10 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/astronomy/</guid>
-      <description></description>
+      <description><figure class="featured">
+      <img alt="" />
+      <figcaption><p></figcaption>
+    </figure></description>
     </item>
     
     <item>
@@ -27,7 +30,10 @@
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/history/</guid>
-      <description></description>
+      <description><figure class="featured">
+      <img alt="" />
+      <figcaption><p></figcaption>
+    </figure></description>
     </item>
     
     <item>
@@ -36,7 +42,10 @@
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/life/</guid>
-      <description></description>
+      <description><figure class="featured">
+      <img alt="" />
+      <figcaption><p></figcaption>
+    </figure></description>
     </item>
     
     <item>
@@ -45,7 +54,10 @@
       <pubDate>Sat, 05 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>/categories/mathematics/</guid>
-      <description></description>
+      <description><figure class="featured">
+      <img alt="" />
+      <figcaption><p></figcaption>
+    </figure></description>
     </item>
     
     <item>
@@ -54,7 +66,10 @@
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/physics/</guid>
-      <description></description>
+      <description><figure class="featured">
+      <img alt="" />
+      <figcaption><p></figcaption>
+    </figure></description>
     </item>
     
     <item>
@@ -63,7 +78,10 @@
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/science/</guid>
-      <description></description>
+      <description><figure class="featured">
+      <img alt="" />
+      <figcaption><p></figcaption>
+    </figure></description>
     </item>
     
     <item>
@@ -72,7 +90,10 @@
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/thought/</guid>
-      <description></description>
+      <description><figure class="featured">
+      <img alt="" />
+      <figcaption><p></figcaption>
+    </figure></description>
     </item>
     
   </channel>

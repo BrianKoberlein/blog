@@ -18,7 +18,10 @@
       <pubDate>Sat, 31 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>/perception-of-depth/</guid>
-      <description>&lt;p&gt;If you’ve ever watched a 3D movie, you’ve noticed how the image on the screen appears to have a certain depth to it. Certain objects just seem farther away. Other objects (usually pointy things) seem to leap out from the screen. You’ve also probably noticed that you have to wear a pair of glasses to watch the movie. If you take the glasses off during the movie, things look somewhat blurry.&lt;/p&gt;
+      <description><figure class="featured">
+      <img src="/image/brightstar.jpg" alt="" />
+      <figcaption><p>Twinkle twinkle, little star. I know how far away you are.</p></figcaption>
+    </figure>&lt;p&gt;If you’ve ever watched a 3D movie, you’ve noticed how the image on the screen appears to have a certain depth to it. Certain objects just seem farther away. Other objects (usually pointy things) seem to leap out from the screen. You’ve also probably noticed that you have to wear a pair of glasses to watch the movie. If you take the glasses off during the movie, things look somewhat blurry.&lt;/p&gt;
 
 &lt;p&gt;3D movies work by projecting two movies at the same time. The two movies are almost identical, except that one was filmed (or computer generated) slightly to the left of center, and the other was filmed slightly to the right. This means that each movie has a slightly different point of view. The movies are projected on a special screen such that the light reflected from right projector is polarized one way, and the light from the left projector is polarized another. The glasses you wear are polarizing filters, and they ensure that only the left image reaches your left eye and only the right image reaches your right eye. With the glasses on, you see a different point of view in each eye. When you take the glasses off, you see both images at once, which is why they look blurry.&lt;/p&gt;
 

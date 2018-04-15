@@ -18,7 +18,10 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/the-invisible-star/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s a limit to how far into the cosmos we can see. One of the biggest limiting factors is simply the brightness of an object. The more distant an object, the dimmer the object will appear. Even if there is no gas or dust in the way, the brightness decreases proportional to the square of its distance. For example, if two stars are equally bright, and one is twice as far away as the other, we will observe four times the light from the closer star than we see from the distant star. Because of this, main sequence stars such as our Sun can only be observed out to a few hundred million light years. Galaxies can be seen from billions of light years away, as can brilliant supernovae, but not a simple star.&lt;/p&gt;
+      <description><figure class="featured">
+      <img src="/image/distantstar.png" alt="" />
+      <figcaption><p>A distant star is magnified by the effects of gravitational lensing. Credit: NASA, ESA, and P. Kelly (University of Minnesota)</p></figcaption>
+    </figure>&lt;p&gt;There&amp;rsquo;s a limit to how far into the cosmos we can see. One of the biggest limiting factors is simply the brightness of an object. The more distant an object, the dimmer the object will appear. Even if there is no gas or dust in the way, the brightness decreases proportional to the square of its distance. For example, if two stars are equally bright, and one is twice as far away as the other, we will observe four times the light from the closer star than we see from the distant star. Because of this, main sequence stars such as our Sun can only be observed out to a few hundred million light years. Galaxies can be seen from billions of light years away, as can brilliant supernovae, but not a simple star.&lt;/p&gt;
 
 &lt;p&gt;But sometimes fortune favors the fortunate. There is a way that gravity can make an object appear brighter than it actually is. Just as a telescope can magnify light of a distant object, so can a &lt;a href=&#34;https://briankoberlein.com/2013/09/09/gravitational-lensing/&#34;&gt;gravitational lens&lt;/a&gt;. Gravitational lensing occurs when light from a distant is deflected by the presence of mass along our line of sight. It was &lt;a href=&#34;https://briankoberlein.com/2014/05/19/einstein-eddington/&#34;&gt;first observed by Arthur Eddington&lt;/a&gt; in 1919, and was the first validation of general relativity. As light is deflected around a galaxy or other mass, we see it coming from multiple directions. This means more light reaches us than normally would without lensing. So the star looks brighter than we&amp;rsquo;d expect.&lt;/p&gt;
 
@@ -52,7 +55,10 @@
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/waking-dead/</guid>
-      <description>&lt;p&gt;Every star dies. Our Sun will shine for about 5 billion more years, but the time will come when it swells to a red giant for a time, then collapse to become a white dwarf. Larger stars live shorter lives, and can eventually collapse to become neutron stars.&lt;/p&gt;
+      <description><figure class="featured">
+      <img src="/image/redgiantbinary.png" alt="" />
+      <figcaption><p>An artist&#39;s rendering of a red giant and its neutron star companion. Credit: ESA</p></figcaption>
+    </figure>&lt;p&gt;Every star dies. Our Sun will shine for about 5 billion more years, but the time will come when it swells to a red giant for a time, then collapse to become a white dwarf. Larger stars live shorter lives, and can eventually collapse to become neutron stars.&lt;/p&gt;
 
 &lt;p&gt;White dwarfs and neutron stars can truly be considered dead stars. Unlike regular stars, they don&amp;rsquo;t generate heat internally through nuclear fusion. They don&amp;rsquo;t have active periods with solar flares. They simply cool slowly over billions of years.&lt;/p&gt;
 
@@ -95,7 +101,10 @@
       <pubDate>Sat, 31 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>/perception-of-depth/</guid>
-      <description>&lt;p&gt;If you’ve ever watched a 3D movie, you’ve noticed how the image on the screen appears to have a certain depth to it. Certain objects just seem farther away. Other objects (usually pointy things) seem to leap out from the screen. You’ve also probably noticed that you have to wear a pair of glasses to watch the movie. If you take the glasses off during the movie, things look somewhat blurry.&lt;/p&gt;
+      <description><figure class="featured">
+      <img src="/image/brightstar.jpg" alt="" />
+      <figcaption><p>Twinkle twinkle, little star. I know how far away you are.</p></figcaption>
+    </figure>&lt;p&gt;If you’ve ever watched a 3D movie, you’ve noticed how the image on the screen appears to have a certain depth to it. Certain objects just seem farther away. Other objects (usually pointy things) seem to leap out from the screen. You’ve also probably noticed that you have to wear a pair of glasses to watch the movie. If you take the glasses off during the movie, things look somewhat blurry.&lt;/p&gt;
 
 &lt;p&gt;3D movies work by projecting two movies at the same time. The two movies are almost identical, except that one was filmed (or computer generated) slightly to the left of center, and the other was filmed slightly to the right. This means that each movie has a slightly different point of view. The movies are projected on a special screen such that the light reflected from right projector is polarized one way, and the light from the left projector is polarized another. The glasses you wear are polarizing filters, and they ensure that only the left image reaches your left eye and only the right image reaches your right eye. With the glasses on, you see a different point of view in each eye. When you take the glasses off, you see both images at once, which is why they look blurry.&lt;/p&gt;
 

@@ -18,7 +18,10 @@
       <pubDate>Sat, 05 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>/turing-universe/</guid>
-      <description>&lt;p&gt;My research area is computational astrophysics. This means I use computers to analyze astronomical data or model astrophysical systems. Most of my work is done through an application known as Mathematica, which is a powerful computational program. Like any application, Mathematica has advantages and disadvantages, but it has one property that is absolutely essential: it is Turing complete.&lt;/p&gt;
+      <description><figure class="featured">
+      <img src="/image/turing.jpg" alt="" />
+      <figcaption><p>An image of Alan Turing and the tools he helped inspire.</p></figcaption>
+    </figure>&lt;p&gt;My research area is computational astrophysics. This means I use computers to analyze astronomical data or model astrophysical systems. Most of my work is done through an application known as Mathematica, which is a powerful computational program. Like any application, Mathematica has advantages and disadvantages, but it has one property that is absolutely essential: it is Turing complete.&lt;/p&gt;
 
 &lt;p&gt;A program that is Turing complete is capable (at least in principle) of computing anything that can be computed. So the only real limitation to an astrophysical model is computing power and memory. As a result, I can run a model in Mathematica on my laptop. If it takes too long, or needs too much memory, I can run the same model on a cluster of computers. With enough grant money I could run it on a large supercomputing cluster. My only limitation is that of the current hardware.&lt;/p&gt;
 
