@@ -27,6 +27,6 @@ But if you disturb spacetime by moving masses around, that disturbance takes tim
 
 {{< figure class="center" src="/image/weeblewobble.png" caption="" >}}
 
-If we imagine a little water bug on our pond, we know it would bob up and down as the wave flows past it. Even if we couldn't see the water, the bobbing of the water bug would tell us the wave was there. The same is true with gravity waves. We can't see gravity waves, but we should be able to see their effect. In the picture above I've drawn what would happen to a ring of small masses as a simple gravity wave passes by (although I've made the effect <b>much</b> larger than it actually is).
+If we imagine a little water bug on our pond, we know it would bob up and down as the wave flows past it. Even if we couldn't see the water, the bobbing of the water bug would tell us the wave was there. The same is true with gravity waves. We can't see gravity waves, but we should be able to see their effect. In the picture above I've drawn what would happen to a ring of small masses as a simple gravity wave passes by (although I've made the effect **much** larger than it actually is).
 
 There's been a great deal of effort to detect gravitational waves this way, but so far we haven't succeeded. But even though we haven't detected them directly, we know they exist because of the way binary pulsars behave. But I'll leave that for [another time](https://briankoberlein.com/2013/09/03/more-on-gravity-waves/).
