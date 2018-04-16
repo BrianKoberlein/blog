@@ -11,7 +11,7 @@ tags:
 description: The Sun is losing mass, and getting larger at the same time
 lastmod: '2018-04-16'
 type: post
-featured_image: mercurysun.jgp
+featured_image: mercurysun.jpg
 featured_image_caption: "The Messenger spacecraft precisely measured the motion of Mercury. Credits: NASA's Goddard Space Flight Center"
 ---
 
