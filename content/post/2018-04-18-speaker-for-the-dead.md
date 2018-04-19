@@ -34,7 +34,7 @@ The basic premise is that civilizations survive for a certain period of time, an
 
 If there are lots of civilizations in our galaxy, the expanding envelope of their signals would spread throughout the galaxy, eventually overlapping in places. The team then calculated the odds of detecting a signal from a still living civilization vs a dead one. They found that it depends on how long civilizations typically survive. If the age is typically more than 100,000 years, then we are more likely to detect a message from a living civilization. If the lifetime of a civilization is less than that, any message we receive is likely to be from a dead world.
 
-We have only been sending signals into space for a century. Do you think our civilization will survive for the next 100 centuries. Will humans still exist in the year 102,018? Or will we perish, leaving only the echoes of our once thriving species. Echoes of a species that arose from the dust for a cosmic moment, but while they lived saw only a lonely night.
+We have only been sending signals into space for a century. Do you  think our civilization will survive for the next 100 centuries. Will humans still exist in the year 102,018? Or will we perish, leaving only the echoes of our once thriving species. Echoes of a species that arose from the dust for a cosmic moment, but while they lived saw only a lonely night.
 
 
 [^1]: Grimaldi, Claudio, Geoffrey W. Marcy, Nathaniel K. Tellis, and Frank Drake. "Area Coverage of Expanding ET Signals in the Galaxy: SETI and Drake’s N." Publications of the Astronomical Society of the Pacific 130, no. 987 (2018): 054101.
