@@ -16,7 +16,7 @@ featured_image: galaxycluster.jpg
 featured_image_caption: "Artist depiction of an early cluster of galaxies. Credit: NRAO/AUI/NSF; S. Dagnello"
 ---
 
-Throughout the universe, things tend to cluster together. Stars cluster together in galaxies, and galaxies form into clusters and superclusters. Galaxies form into clusters because the gravitational tug on each other tends to pull them together, while dark energy tends to separate clusters from each other. This [pushme-pullyou](https://briankoberlein.com/2014/01/26/push-pull/) of dark matter and dark energy clumps galaxies together. The clustering of galaxies takes time, so we wouldn't expect to see large galaxies clusters in the very early universe. But it turns out some galaxy clusters can form rather quickly.
+Throughout the universe, things tend to cluster together. Stars cluster together in galaxies, and galaxies form into clusters and superclusters. Galaxies form into clusters because the gravitational tug on each other tends to pull them together, while dark energy tends to separate clusters from each other. This  [pushme-pullyou](https://briankoberlein.com/2014/01/26/push-pull/) of dark matter and dark energy clumps galaxies together. The clustering of galaxies takes time, so we wouldn't expect to see large galaxies clusters in the very early universe. But it turns out some galaxy clusters can form rather quickly.
 
 {{< figure class="right" src="/image/infraredgalaxycluster.jpg" caption="An infrared image of the galaxy protocluster known as SPT2349-56. Credit: ALMA (ESO/NAOJ/NRAO); B. Saxton (NRAO/AUI/NSF)" >}}
 
