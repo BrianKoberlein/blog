@@ -20,7 +20,7 @@ Throughout the universe, things tend to cluster together. Stars cluster together
 
 {{< figure class="right" src="/image/infraredgalaxycluster.jpg" caption="An infrared image of the galaxy protocluster known as SPT2349-56. Credit: ALMA (ESO/NAOJ/NRAO); B. Saxton (NRAO/AUI/NSF)" >}}
 
-Recent observations[^1] by the [ALMA](https://briankoberlein.com/2015/07/05/place-of-departure/) telescope have found a group of more than a dozen galaxies in the early stages of cluster formation. Known as a protocluster, they eventually form the core of large galaxy superclusters. The protocluster is so distant that we see it at a time when the universe was only 1.4 billion years old. When the universe was only 10% of its current age, these galaxies were already huddled together into a region of space only three times wider than our own Milky Way. 
+Recent observations[^1] by  the [ALMA](https://briankoberlein.com/2015/07/05/place-of-departure/) telescope have found a group of more than a dozen galaxies in the early stages of cluster formation. Known as a protocluster, they eventually form the core of large galaxy superclusters. The protocluster is so distant that we see it at a time when the universe was only 1.4 billion years old. When the universe was only 10% of its current age, these galaxies were already huddled together into a region of space only three times wider than our own Milky Way. 
 
 This poses a challenge for galaxy cluster models. Computer simulations of the early universe predict that such protoclusters should take much longer to form than 1.4 billion years. It's possible that this cluster is just a rare fluke, but it's also possible that our computer models need to be revised.
 
