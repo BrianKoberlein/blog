@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/brian/Desktop/blog/static/css/home.css",
+			"settings":
+			{
+				"buffer_size": 5078,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -15,12 +23,28 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 199.0,
+		"last_filter": "Package Control: ins",
 		"selected_items":
 		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mo",
+				"Monokai Pro: select theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 448.0
 	},
 	"console":
 	{
@@ -40,16 +64,29 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/brian/Desktop/blog"
+		"/Users/brian/Desktop/blog",
+		"/Users/brian/Desktop/blog/static",
+		"/Users/brian/Desktop/blog/static/css",
+		"/Users/brian/Desktop/blog/themes"
 	],
 	"file_history":
 	[
+		"/Users/brian/Desktop/blog/layouts/_default/rss.xml",
+		"/Users/brian/Desktop/blog/static/css/taxonomy.css",
+		"/Users/brian/Desktop/fonts.css",
+		"/Users/brian/Desktop/blog/static/css/home.css",
+		"/Users/brian/Desktop/signalshells.JPG",
+		"/Users/brian/Desktop/wp2hugo.go",
+		"/Users/brian/Desktop/blog/archetypes/default.md",
+		"/Users/brian/Desktop/_index.Rmarkdown",
+		"/Users/brian/Desktop/blog/content/post/2018-04-08-the-greatest-show-on-earth.md",
+		"/Users/brian/Desktop/blog/netlify.toml",
 		"/Users/brian/Dropbox/web/bury-lede.md",
 		"/Users/brian/Desktop/blog/content/papers.bib"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -63,6 +100,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"color"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -80,14 +118,43 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/brian/Desktop/blog/static/css/home.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1043,
+								1050
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -124,7 +191,7 @@
 	"project": "blog.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -162,7 +229,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 241.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
