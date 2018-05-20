@@ -2,7 +2,7 @@
 title: Kicking Brown Dwarfs Out Of The Family Of Planets
 author: Brian Koberlein
 date: '2018-01-31'
-slug: kicking-brown-dwarfs-out-of-the-family-of-planets
+slug: kicking-brown-dwarfs-family-planets
 categories:
   - Astronomy
 tags:
