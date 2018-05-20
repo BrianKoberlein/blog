@@ -31,4 +31,4 @@ But now there’s a proposal to define large planets not by their mass, but how 
 
 Recently Kevin Schlaufman looked at brown dwarfs orbiting a larger star, and compared the masses of these brown dwarfs to the metallicities of their stars[^1]. He found that stars with higher metallicity had all different sizes of brown dwarfs, but stars with lower metallicity only had brown dwarfs larger than about 10 Jupiter masses. This means that brown dwarfs larger than 10 Jupiter masses likely form from the top-down method of stars rather than the bottom-up method of planets. This opens up a new definition for planets. Bodies smaller than 10 Jupiter masses are planets, larger than 90 Jupiter masses are stars, and in between are brown dwarfs that share properties similar to both.
 
-[1]: Kevin C. Schlaufman. Evidence of an Upper Bound on the Masses of Planets and Its Implications for Giant Planet Formation. The Astrophysical Journal, Volume 853, Number 1 (2018)
+[^1]: Kevin C. Schlaufman. Evidence of an Upper Bound on the Masses of Planets and Its Implications for Giant Planet Formation. The Astrophysical Journal, Volume 853, Number 1 (2018)
