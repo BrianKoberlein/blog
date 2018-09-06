@@ -1,7 +1,7 @@
 ---
 title: A Subtle Attraction
 author: Brian Koberlein
-date: '2018-09-12'
+date: '2018-09-06'
 slug: a-subtle-attraction
 categories:
   - Physics
