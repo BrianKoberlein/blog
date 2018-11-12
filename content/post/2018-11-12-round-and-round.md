@@ -11,7 +11,7 @@ description: ACME Experiment Finds That Electrons Are Really, Really Round
 lastmod: '2018-11-12'
 type: post
 featured_image: electron.jpg
-featured_image_caption: 'Artist's imagining of an electron surrounding the nucleus of an atom. Credit: Nicolle R. Fuller, National Science Foundation.'
+featured_image_caption: "Artist's imagining of an electron surrounding the nucleus of an atom. Credit: Nicolle R. Fuller, National Science Foundation."
 ---
 
 Electrons are interesting things. They help form the structure of atoms and molecules, they can flow through conductive materials to create electric currents, and they have a strange quantum behavior that is sometimes particle-like and sometimes wave-like. And as far as we can tell, they are perfectly spherical. This has some interesting implications for cutting-edge physics.
