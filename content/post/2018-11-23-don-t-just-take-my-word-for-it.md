@@ -12,7 +12,7 @@ description: A new astronomy book by David Dickenson is well worth reading
 lastmod: '2018-11-23'
 type: post
 featured_image: dickenson1.jpg
-featured_image_caption: 'If you are interested in astronomy, this book is well worth it.'
+featured_image_caption: "If you are interested in astronomy, this book is well worth it."
 ---
 
 As the holiday gift-giving season approaches, I've started to get questions about what to buy someone who's interested in astronomy. The hardest question to answer has been what book to get someone interested in observing the night sky.
