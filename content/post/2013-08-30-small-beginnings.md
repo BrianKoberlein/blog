@@ -7,7 +7,7 @@ categories:
   - Life
 tags:
   - meta
-  - blogging
+  - blogging 
   - website
 description: I've finally made a website
 lastmod: '2018-02-25'
