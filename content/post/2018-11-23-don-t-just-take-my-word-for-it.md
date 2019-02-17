@@ -8,7 +8,7 @@ categories:
 tags:
   - books
   - review
-description: A new astronomy book by David Dickenson is well worth reading
+description: A new astronomy book by David Dickinson is well worth reading
 lastmod: '2018-11-23'
 type: post
 featured_image: dickenson1.jpg
