@@ -1,8 +1,8 @@
 ---
 title: Opportunities
 author: Brian Koberlein
-date: '2019-02-16'
-slug: using-black-holes
+date: '2019-02-17'
+slug: opportunities
 categories:
   - Life
 tags:
